@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2024"
 description = "Sync Gong customer calls into local Markdown Call Files"
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/ChrisEdwards/gong-cli"
+homepage = "https://github.com/ChrisEdwards/gong-cli"
 
 [[bin]]
 name = "gong"
@@ -32,3 +34,8 @@ predicates = "3"
 regex = "1"
 tempfile = "3"
 wiremock = "0.6"
+
+# The profile that 'dist' will build with
+[profile.dist]
+inherits = "release"
+lto = "thin"
