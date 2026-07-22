@@ -15,8 +15,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Honors the nightly channel pinned in rust-toolchain.toml
-      - uses: dtolnay/rust-toolchain@nightly
+      # Matches the stable channel pinned in rust-toolchain.toml
+      - uses: dtolnay/rust-toolchain@stable
         with:
           components: clippy, rustfmt
 
