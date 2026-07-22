@@ -1,32 +1,117 @@
 # gong-cli
 
-`gong` is a local CLI that syncs Gong Customer Calls into deterministic Markdown Call Files. It is intended for unattended knowledge-base workflows while remaining general-purpose across Gong organizations.
+`gong` is a local command-line tool that syncs Gong Customer Calls into deterministic Markdown Call Files. It is built for unattended knowledge-base workflows and stays general-purpose across Gong organizations.
 
 > [!IMPORTANT]
-> Call metadata, transcripts, names, email addresses, and CRM account context are confidential customer data. `gong` processes this data locally and writes only to the configured Output Directory. It does not upload Call data to another service.
+> Call metadata, transcripts, names, email addresses, and CRM account context are confidential customer data. `gong` processes this data locally and writes only to the configured Output Directory. It never uploads Call data to another service.
 
-## Status
+## Commands at a glance
 
-The v1 command set is under active development. `gong check` validates configuration and connectivity, `gong list` previews Customer Calls, `gong get` renders one Call by exact ID, and `gong sync` incrementally maintains the Output Directory.
+| Command | What it does |
+|---------|--------------|
+| `gong check` | Validates configuration, credentials, API access, and the Output Directory |
+| `gong list` | Previews Customer Calls in a date range without writing files |
+| `gong get`  | Fetches and renders one Call by its exact Gong Call ID |
+| `gong sync` | Incrementally maintains the Output Directory, and can re-render full history |
+
+Run `gong --help` or `gong <command> --help` for the full flag list.
+
+## Installation
+
+Prebuilt binaries are published for macOS (Apple Silicon and Intel), Linux (x86_64 and arm64), and Windows (x86_64).
+
+### Homebrew (macOS and Linux)
+
+```sh
+brew install ChrisEdwards/tap/gong-cli
+```
+
+### Install script (macOS and Linux)
+
+```sh
+curl --proto '=https' --tlsv1.2 -LsSf https://github.com/ChrisEdwards/gong-cli/releases/latest/download/gong-cli-installer.sh | sh
+```
+
+### PowerShell (Windows)
+
+```powershell
+powershell -c "irm https://github.com/ChrisEdwards/gong-cli/releases/latest/download/gong-cli-installer.ps1 | iex"
+```
+
+### Prebuilt archives
+
+Download the archive for your platform from the [Releases page](https://github.com/ChrisEdwards/gong-cli/releases), unpack it, and put the `gong` binary on your `PATH`.
+
+### From source
+
+Requires a stable Rust toolchain (the repo pins `stable` in `rust-toolchain.toml`).
+
+```sh
+# Install straight from git
+cargo install --git https://github.com/ChrisEdwards/gong-cli --tag v0.1.0
+
+# Or clone and build
+git clone https://github.com/ChrisEdwards/gong-cli
+cd gong-cli
+cargo build --release   # binary at target/release/gong
+```
+
+Confirm the install:
+
+```sh
+gong --version
+```
+
+## Gong API credentials
+
+You need three values from Gong. A Gong administrator generates an **Access Key** and **Access Key Secret** from the company API settings, and the **base URL** is your organization's API host shown alongside those credentials (commonly `https://api.gong.io`, or a regional host). See Gong's own API documentation for the current path to these settings, since Gong controls that UI.
+
+The account behind the key needs read access to the Calls and Transcript API. `gong` only reads.
 
 ## Configuration
 
-Create `~/.config/gong-cli/config.toml` and restrict it to its owner (`chmod 600`):
+`gong` reads `~/.config/gong-cli/config.toml` by default. Create it and restrict it to your user, since it holds secrets.
+
+```sh
+mkdir -p ~/.config/gong-cli
+$EDITOR ~/.config/gong-cli/config.toml
+chmod 600 ~/.config/gong-cli/config.toml
+```
 
 ```toml
 access_key = "your-gong-access-key"
 access_key_secret = "your-gong-access-key-secret"
 base_url = "https://api.gong.io"
 output_dir = "/absolute/path/to/customer-calls"
-status_file = "/absolute/path/to/gong-sync.status" # optional
+status_file = "/absolute/path/to/gong-sync.status"  # optional
 
 [sync]
-overlap_days = 3
+overlap_days = 3   # days sync backs up from the latest local Call File (default 3)
 ```
 
-Credentials and core settings can be overridden with `GONG_ACCESS_KEY`, `GONG_ACCESS_KEY_SECRET`, `GONG_BASE_URL`, and `GONG_OUTPUT_DIR`, or their corresponding command-line flags. Precedence is flags, then environment, then the configuration file.
+| Setting | Required | Purpose |
+|---------|----------|---------|
+| `access_key` | yes | Gong API access key |
+| `access_key_secret` | yes | Gong API access key secret |
+| `base_url` | yes | Your organization's Gong API host |
+| `output_dir` | yes | Directory where Call Files are written |
+| `status_file` | no | Flat `key=value` status file for cron monitoring |
+| `sync.overlap_days` | no | How many days `sync` re-checks for late transcripts and summaries |
 
-Run the diagnostic:
+### Overrides and precedence
+
+Every core setting can also come from an environment variable or a flag. Precedence runs flags first, then environment variables, then the config file.
+
+| Config key | Environment variable | Flag |
+|------------|----------------------|------|
+| `access_key` | `GONG_ACCESS_KEY` | `--access-key` |
+| `access_key_secret` | `GONG_ACCESS_KEY_SECRET` | `--access-key-secret` |
+| `base_url` | `GONG_BASE_URL` | `--base-url` |
+| `output_dir` | `GONG_OUTPUT_DIR` | `--output-dir` |
+
+Point at a different config file anytime with `--config /path/to/config.toml`.
+
+### Verify
 
 ```console
 $ gong check
@@ -36,42 +121,64 @@ $ gong check
 [PASS] output directory: /absolute/path/to/customer-calls is writable
 ```
 
-Preview a whole-day date range as a human table, or add `--json` for the scripting shape:
+`gong check` exits 0 when everything passes and 1 on the first hard failure, naming the setting and the fix. Run it first whenever a sync breaks.
+
+## Usage
+
+### List Calls in a date range
+
+Dates are whole calendar days in `YYYY-MM-DD` form. `--from` is required and `--to` defaults to today. Add `--json` for a scripting-friendly array.
 
 ```sh
 gong list --from 2026-07-01 --to 2026-07-07
 gong list --from 2026-07-01 --to 2026-07-07 --json
 ```
 
-Render one Call to stdout, write it to a file, or inspect the merged API payload:
+### Render one Call
 
 ```sh
-gong get 1234567890123456789
-gong get 1234567890123456789 --output call.md
-gong get 1234567890123456789 --json
+gong get 1234567890123456789                 # render to stdout
+gong get 1234567890123456789 --output call.md  # write to a file
+gong get 1234567890123456789 --json            # merged raw API payload for debugging
 ```
 
-Seed an empty Output Directory with an explicit date, then let later runs derive their High-Water Mark from the Call Files already present:
+Call IDs are handled as strings end to end, so full 19-digit IDs stay exact.
+
+### Sync (the daily workflow)
+
+`sync` derives where it left off from the Call Files already in the Output Directory, so it holds no hidden state. Seed an empty directory once with `--from`, then run bare `sync` on a schedule.
 
 ```sh
-gong sync --from 2026-07-01
-gong sync
+gong sync --from 2026-07-01                     # first run into an empty directory
+gong sync                                        # every run after that
 gong sync --from 2026-07-01 --to 2026-07-07 --dry-run
 ```
 
-Sync prints one stable summary line and returns exit 0 for a clean run, 1 when nothing could be attempted, or 2 when individual Calls failed while the rest continued. When configured, the status file records `last_state`, run/success/failure timestamps, the summary message, and new/Healing/skip/failure counts in flat `key=value` form. Dry runs never mutate Call Files or the status file.
+`sync` writes one stable summary line to stdout and returns:
 
-Preview a full-history migration before approving overwrites:
+- `0` a clean run, including a run that found no new Calls
+- `1` nothing could be attempted, such as a config, auth, or empty-directory error
+- `2` some individual Calls failed while the rest were written
+
+New Calls are written immediately, even before Gong finishes generating a summary. Later runs re-check the last `overlap_days` and heal any Call File still holding a summary placeholder. `--dry-run` previews decisions and never touches files or the status file. `--quiet` silences progress detail on stderr but keeps errors and the summary line.
+
+When `status_file` is set, `sync` records `last_state`, run and success and failure timestamps, the summary message, and new / healed / skipped / failed counts in flat `key=value` form, so a cron wrapper can tell when a sync is stale or failing.
+
+### Full-history re-render
+
+Full mode widens the window to all history and, with `--force`, re-fetches and overwrites Call Files that already exist. Preview it before approving.
 
 ```sh
-gong sync --full --force --dry-run
-gong sync --full --force       # interactive y/N confirmation
-gong sync --full --force --yes # non-interactive confirmation
+gong sync --full --force --dry-run   # print the full blast radius, write nothing
+gong sync --full --force             # interactive y/N confirmation before writing
+gong sync --full --force --yes       # non-interactive confirmation for scripts
 ```
 
-Forced sync lists the complete blast radius before writing. Full mode reports matching local Call Files that have no live Gong Call as orphans and never deletes or modifies them. Transcript requests are batched in groups of up to 100 while remaining under the shared Gong request limit.
+Forced sync lists the complete set of overwrites, new files, and orphans before writing. An orphan is a local Call File that matches no live Gong Call, usually because the Call was renamed or aged out. `gong` reports orphans and never deletes or modifies them, so cleanup stays your decision. Plain daily `sync` never prompts, which keeps it safe for cron.
 
-Raw Gong responses can contain customer PII and confidential deal fields. Never add raw responses, `.env` files, or downloaded transcripts to version control.
+## Handling customer data
+
+Raw Gong responses can contain customer PII and confidential deal fields such as ARR and renewal dates. `gong` writes only the Account name from CRM context and deliberately drops the rest. Never add raw responses, `.env` files, or downloaded transcripts to version control. This repository already ignores those paths.
 
 ## Development
 
@@ -81,4 +188,10 @@ cargo clippy --all-targets --all-features -- -D warnings
 cargo fmt --check
 ```
 
-The domain vocabulary and behavioral decisions live in [`CONTEXT.md`](CONTEXT.md), [`docs/PRD.md`](docs/PRD.md), and [`docs/adr/`](docs/adr/).
+Releases are cut by pushing a `v*` tag, which drives the [cargo-dist](https://github.com/axodotdev/cargo-dist) workflow in `.github/workflows/release.yml`.
+
+The domain vocabulary and design decisions live in [`CONTEXT.md`](CONTEXT.md), [`docs/PRD.md`](docs/PRD.md), and [`docs/adr/`](docs/adr/).
+
+## License
+
+Licensed under either of [MIT](LICENSE-MIT) or [Apache-2.0](LICENSE-APACHE) at your option.
