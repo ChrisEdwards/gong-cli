@@ -1,6 +1,6 @@
 # Rust
 /target/
-Cargo.lock
+# Cargo.lock is committed: this is a binary crate, so a locked build is reproducible.
 
 # Environment / secrets
 .env
