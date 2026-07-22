@@ -1,0 +1,32 @@
+# Rust
+/target/
+Cargo.lock
+
+# Environment / secrets
+.env
+.env.*
+
+# Raw spike data (contains real customer PII and deal data, never commit)
+/spikes/
+
+# Local bead issue tracker (contains candid internal notes / customer references)
+/.beads/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local agent/tool state and Python bytecode
+.abacus/
+__pycache__/
+*.pyc
+
+# Output files (downloaded transcripts)
+transcripts/**/*.json
+transcripts/**/*.txt
+*.transcript.json

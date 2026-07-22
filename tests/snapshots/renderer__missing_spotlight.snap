@@ -1,0 +1,46 @@
+---
+source: tests/renderer.rs
+expression: rendered.markdown
+---
+---
+title: "Fixture_ebc8210467 :"
+date: "2025-10-01"
+started: "2025-10-01T09:59:20.424-07:00"
+duration_minutes: 5
+meeting_provider: "Google Meet"
+host: "P_6be137c6ba"
+gong_call_id: "325329014214203899"
+gong_url: "https://example.gong.io/call/325329014214203899"
+document_type: "meeting-notes"
+source_type: "gong-transcript"
+customer_contacts:
+  - email: "p-649f7f8971@customer-b54c64dc.example"
+  - title: "R_7f4a6a9b02"
+    email: "p-758ebe5db0@customer-b54c64dc.example"
+  - title: "R_7f4a6a9b02"
+    email: "p-9c98a80f9f@customer-b54c64dc.example"
+  - title: "R_c515b410bf"
+    email: "p-aceeee51c2@customer-b54c64dc.example"
+  - name: "P_4b67a8f2e1"
+    email: "p-910681c058@customer-b54c64dc.example"
+internal_attendees:
+  - name: "P_6be137c6ba"
+    title: "R_d563ac5852"
+    email: "p-db9b9cd65f@internal-example.com"
+---
+
+# Fixture_ebc8210467 :
+
+## Summary
+
+_[Summary to be added]_
+
+### Key points
+
+_[Summary to be added]_
+
+### Next steps
+
+_[Summary to be added]_
+
+## Transcript

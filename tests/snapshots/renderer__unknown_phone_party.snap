@@ -1,0 +1,57 @@
+---
+source: tests/renderer.rs
+expression: rendered.markdown
+---
+---
+title: "Fixture_f1d559b67d :"
+date: "2025-10-01"
+started: "2025-10-01T13:01:28-07:00"
+duration_minutes: 56
+meeting_provider: "Gong Mobile App"
+host: "P_ce4cf4d0a8"
+gong_call_id: "2369410819850966302"
+gong_url: "https://example.gong.io/call/2369410819850966302"
+document_type: "meeting-notes"
+source_type: "gong-transcript"
+customer_contacts:
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+internal_attendees:
+  - name: "P_ce4cf4d0a8"
+    title: "R_3f74a08702"
+    email: "p-bd637bca81@internal-example.com"
+---
+
+# Fixture_f1d559b67d :
+
+## Summary
+
+B_cc37a07393.
+
+### Key points
+
+- K_0fb6a05743.
+- K_a92d68450a.
+- K_d5a9f1bd78.
+- K_0754161de1.
+- K_6f63b62634.
+- K_31e6fb387d.
+- K_f0e45871af.
+- K_354b8c5648.
+- K_f82b2bf023.
+- K_caf352186a.
+
+### Next steps
+
+- N_1ccee775dc.
+- N_7bc5adab05.
+- N_77722c5c17.
+- N_7725a99ff7.
+
+## Transcript
+
+12:34 | Unknown
+Synthetic phone contribution.

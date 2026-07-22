@@ -1,0 +1,34 @@
+[package]
+name = "gong-cli"
+version = "0.1.0"
+edition = "2024"
+description = "Sync Gong customer calls into local Markdown Call Files"
+license = "MIT OR Apache-2.0"
+
+[[bin]]
+name = "gong"
+path = "src/main.rs"
+
+[dependencies]
+anyhow = "1"
+chrono = { version = "0.4", features = ["serde"] }
+clap = { version = "4.5", features = ["derive", "env"] }
+dialoguer = "0.12"
+indicatif = "0.18"
+reqwest = { version = "0.12", default-features = false, features = ["json", "rustls-tls-native-roots"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+thiserror = "2"
+tokio = { version = "1", features = ["macros", "rt-multi-thread", "sync", "time"] }
+toml = "0.9"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+unicode-normalization = "0.1"
+
+[dev-dependencies]
+assert_cmd = "2"
+insta = "1"
+predicates = "3"
+regex = "1"
+tempfile = "3"
+wiremock = "0.6"

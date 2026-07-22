@@ -1,0 +1,60 @@
+---
+source: tests/renderer.rs
+expression: rendered.markdown
+---
+---
+title: "Fixture_cbbb5d350e |"
+date: "2025-09-29"
+started: "2025-09-29T07:01:06.91-07:00"
+duration_minutes: 27
+meeting_provider: "Google Meet"
+host: "P_69de7d5842"
+gong_call_id: "6733662715059132769"
+gong_url: "https://example.gong.io/call/6733662715059132769"
+document_type: "meeting-notes"
+source_type: "gong-transcript"
+customer_contacts:
+  - title: "R_d031feb3ae"
+    email: "p-c1f08bc683@customer-abf142dd.example"
+  - name: "P_3dd9d00571"
+  - name: "P_f8ee43c01e"
+    title: "R_4bb77185ed"
+    email: "p-5f0cb1425e@customer-abf142dd.example"
+internal_attendees:
+  - name: "P_69de7d5842"
+    title: "R_d563ac5852"
+    email: "p-1083c1f1ea@internal-example.com"
+  - name: "P_6a73abcad8"
+    title: "R_bcfa5fb020"
+    email: "p-ba1b80a1f8@internal-example.com"
+  - name: "P_fb2cd2d395"
+    title: "R_33e37fbcdf"
+    email: "p-89f5a1ec8a@internal-example.com"
+---
+
+# Fixture_cbbb5d350e |
+
+## Summary
+
+B_6b72b52ed1.
+
+### Key points
+
+- K_88b649ccf1.
+- K_3f1888b160.
+- K_911c6ce0e4.
+- K_73f8e20af7.
+- K_70774b6723.
+- K_bdadb62273.
+- K_1d1392131d.
+- K_fcbf9ed92a.
+- K_7239d0cade.
+- K_855fb0d9b8.
+
+### Next steps
+
+- N_c2b48b36b6.
+- N_e00e294953.
+- N_358f6aea65.
+
+## Transcript

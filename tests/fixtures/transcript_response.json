@@ -1,0 +1,6015 @@
+{
+  "requestId": "1652668566696306022",
+  "records": {
+    "totalRecords": 1,
+    "currentPageSize": 1,
+    "currentPageNumber": 0
+  },
+  "callTranscripts": [
+    {
+      "callId": "1860496513693944597",
+      "transcript": [
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 130,
+              "end": 520,
+              "text": "X_98cc4972a6."
+            },
+            {
+              "start": 2770,
+              "end": 3070,
+              "text": "X_f975f5be5f."
+            },
+            {
+              "start": 3170,
+              "end": 3770,
+              "text": "X_a6175a9ef7."
+            },
+            {
+              "start": 3950,
+              "end": 4690,
+              "text": "X_66b27a966b."
+            },
+            {
+              "start": 4770,
+              "end": 4970,
+              "text": "X_9ea0101a6d."
+            },
+            {
+              "start": 6370,
+              "end": 7130,
+              "text": "X_c5d57a2522."
+            },
+            {
+              "start": 7130,
+              "end": 7290,
+              "text": "X_757eb50ec1."
+            },
+            {
+              "start": 7550,
+              "end": 8190,
+              "text": "X_cefe327074."
+            },
+            {
+              "start": 8390,
+              "end": 8970,
+              "text": "X_259326c564."
+            },
+            {
+              "start": 9930,
+              "end": 13690,
+              "text": "X_e84e8cc680."
+            },
+            {
+              "start": 13770,
+              "end": 15230,
+              "text": "X_70de3fb7d9."
+            }
+          ]
+        },
+        {
+          "speakerId": "1677998726631167395",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 16670,
+              "end": 17070,
+              "text": "X_e20ba286fe."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 17070,
+              "end": 17770,
+              "text": "X_7a3d47fcd9."
+            },
+            {
+              "start": 18210,
+              "end": 19010,
+              "text": "X_76f20a4bac."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 23570,
+              "end": 23790,
+              "text": "X_1f29300456."
+            },
+            {
+              "start": 23870,
+              "end": 24230,
+              "text": "X_ca1390fa59."
+            }
+          ]
+        },
+        {
+          "speakerId": "1677998726631167395",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 25250,
+              "end": 25490,
+              "text": "X_8a5121295c."
+            },
+            {
+              "start": 25530,
+              "end": 25950,
+              "text": "X_ca1390fa59."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 26210,
+              "end": 26830,
+              "text": "X_66b27a966b."
+            },
+            {
+              "start": 26850,
+              "end": 28130,
+              "text": "X_38e950e71e."
+            }
+          ]
+        },
+        {
+          "speakerId": "1677998726631167395",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 29700,
+              "end": 30070,
+              "text": "X_1752eca839."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 31710,
+              "end": 31970,
+              "text": "X_e88176dea4."
+            },
+            {
+              "start": 32070,
+              "end": 32630,
+              "text": "X_59b6edfb2e."
+            }
+          ]
+        },
+        {
+          "speakerId": "1677998726631167395",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 33700,
+              "end": 33910,
+              "text": "X_76273a4a34."
+            },
+            {
+              "start": 34050,
+              "end": 34450,
+              "text": "X_9ea0101a6d."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 34670,
+              "end": 35150,
+              "text": "X_844033a0c9."
+            },
+            {
+              "start": 35150,
+              "end": 40410,
+              "text": "X_f3fe242ad2."
+            }
+          ]
+        },
+        {
+          "speakerId": "1677998726631167395",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 41570,
+              "end": 42370,
+              "text": "X_5d216c57b5."
+            },
+            {
+              "start": 42550,
+              "end": 43150,
+              "text": "X_4a6a0f1f91."
+            },
+            {
+              "start": 43150,
+              "end": 43570,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 43570,
+              "end": 49250,
+              "text": "X_80acbde08f."
+            },
+            {
+              "start": 49430,
+              "end": 60890,
+              "text": "X_b9a2393566."
+            },
+            {
+              "start": 60970,
+              "end": 66590,
+              "text": "X_b3e4614293."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 67410,
+              "end": 67890,
+              "text": "X_38e55a115d."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 68720,
+              "end": 69040,
+              "text": "X_390679644c."
+            },
+            {
+              "start": 70380,
+              "end": 71080,
+              "text": "X_21bf4a8ab7."
+            },
+            {
+              "start": 71160,
+              "end": 71720,
+              "text": "X_9fbe0df94d."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 73010,
+              "end": 73440,
+              "text": "X_a90ecc6f20."
+            },
+            {
+              "start": 73500,
+              "end": 76140,
+              "text": "X_a371f19858."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 76420,
+              "end": 78900,
+              "text": "X_e396dc9328."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 78960,
+              "end": 79200,
+              "text": "X_f975f5be5f."
+            },
+            {
+              "start": 80380,
+              "end": 85560,
+              "text": "X_4eee853bf3."
+            },
+            {
+              "start": 86780,
+              "end": 91460,
+              "text": "X_7a20d2ff7a."
+            },
+            {
+              "start": 92500,
+              "end": 97500,
+              "text": "X_5f236ea39c."
+            },
+            {
+              "start": 97660,
+              "end": 108160,
+              "text": "X_ed6846389a."
+            },
+            {
+              "start": 108360,
+              "end": 110340,
+              "text": "X_7441917b1d."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 110620,
+              "end": 111480,
+              "text": "X_2f7bba37f0."
+            },
+            {
+              "start": 111600,
+              "end": 112420,
+              "text": "X_f40b5d3901."
+            },
+            {
+              "start": 112420,
+              "end": 112920,
+              "text": "X_04d8e6a022."
+            },
+            {
+              "start": 113490,
+              "end": 119770,
+              "text": "X_4ed5bc71c9."
+            },
+            {
+              "start": 119870,
+              "end": 127630,
+              "text": "X_0c9260320e."
+            },
+            {
+              "start": 128050,
+              "end": 132950,
+              "text": "X_bdebffd20d."
+            },
+            {
+              "start": 133050,
+              "end": 133690,
+              "text": "X_189b27bd33."
+            },
+            {
+              "start": 133790,
+              "end": 134630,
+              "text": "X_d56a114c9f."
+            },
+            {
+              "start": 134630,
+              "end": 134930,
+              "text": "X_68d847d309."
+            },
+            {
+              "start": 136230,
+              "end": 138550,
+              "text": "X_e539b586c3."
+            },
+            {
+              "start": 139390,
+              "end": 148370,
+              "text": "X_2d56644a98."
+            },
+            {
+              "start": 148610,
+              "end": 150350,
+              "text": "X_aff7375118."
+            }
+          ]
+        },
+        {
+          "speakerId": "1677998726631167395",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 151500,
+              "end": 155850,
+              "text": "X_eb55e2bc05."
+            },
+            {
+              "start": 156030,
+              "end": 165150,
+              "text": "X_238902b3b4."
+            },
+            {
+              "start": 165290,
+              "end": 170130,
+              "text": "X_9eed8e61ed."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 171300,
+              "end": 171680,
+              "text": "X_390679644c."
+            },
+            {
+              "start": 171820,
+              "end": 186860,
+              "text": "X_1ed890aa67."
+            },
+            {
+              "start": 187360,
+              "end": 194080,
+              "text": "X_cc70856f13."
+            },
+            {
+              "start": 196400,
+              "end": 203780,
+              "text": "X_ce060df113."
+            },
+            {
+              "start": 203980,
+              "end": 205340,
+              "text": "X_95513badaf."
+            },
+            {
+              "start": 206220,
+              "end": 208720,
+              "text": "X_8d872acced."
+            },
+            {
+              "start": 208880,
+              "end": 216380,
+              "text": "X_06e4c08417."
+            },
+            {
+              "start": 216600,
+              "end": 223760,
+              "text": "X_0aff213237."
+            },
+            {
+              "start": 224950,
+              "end": 225230,
+              "text": "X_f64d8089f5."
+            },
+            {
+              "start": 225310,
+              "end": 225550,
+              "text": "X_3765db22f8."
+            },
+            {
+              "start": 225550,
+              "end": 226630,
+              "text": "X_bb5e234f77."
+            },
+            {
+              "start": 226830,
+              "end": 229270,
+              "text": "X_28503d442f."
+            },
+            {
+              "start": 229530,
+              "end": 230010,
+              "text": "X_757eb50ec1."
+            },
+            {
+              "start": 230010,
+              "end": 230110,
+              "text": "X_42a4dc6ae9."
+            },
+            {
+              "start": 230110,
+              "end": 230210,
+              "text": "X_d1eed7f74a."
+            },
+            {
+              "start": 231170,
+              "end": 241470,
+              "text": "X_4f53381802."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 244660,
+              "end": 244670,
+              "text": "X_d680a4400a."
+            },
+            {
+              "start": 245720,
+              "end": 247580,
+              "text": "X_c99f320d47."
+            },
+            {
+              "start": 247680,
+              "end": 249340,
+              "text": "X_7c45286e4f."
+            },
+            {
+              "start": 249400,
+              "end": 253160,
+              "text": "X_81d99e703c."
+            },
+            {
+              "start": 253740,
+              "end": 263650,
+              "text": "X_77b665e30d."
+            },
+            {
+              "start": 263750,
+              "end": 273130,
+              "text": "X_f68cbf913f."
+            },
+            {
+              "start": 273230,
+              "end": 277940,
+              "text": "X_06ee6280da."
+            },
+            {
+              "start": 278120,
+              "end": 278440,
+              "text": "X_f64d8089f5."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 278540,
+              "end": 279000,
+              "text": "X_f55eda9d40."
+            },
+            {
+              "start": 279140,
+              "end": 280260,
+              "text": "X_3b8767ab01."
+            },
+            {
+              "start": 280520,
+              "end": 282600,
+              "text": "X_31f2c983b0."
+            },
+            {
+              "start": 282700,
+              "end": 288180,
+              "text": "X_a3681b01b7."
+            },
+            {
+              "start": 288280,
+              "end": 293440,
+              "text": "X_d7514cee6e."
+            },
+            {
+              "start": 293860,
+              "end": 297040,
+              "text": "X_b0cb6794a6."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 297040,
+              "end": 304080,
+              "text": "X_249af1af07."
+            },
+            {
+              "start": 304280,
+              "end": 307000,
+              "text": "X_ae3038013e."
+            },
+            {
+              "start": 307520,
+              "end": 312230,
+              "text": "X_30d187def0."
+            },
+            {
+              "start": 312610,
+              "end": 313050,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 313170,
+              "end": 313610,
+              "text": "X_e1b25f9590."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 313890,
+              "end": 315190,
+              "text": "X_45557368af."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 315710,
+              "end": 318870,
+              "text": "X_70686a2193."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_b1867c445c",
+          "sentences": [
+            {
+              "start": 318910,
+              "end": 320270,
+              "text": "X_7ee88a0857."
+            },
+            {
+              "start": 320270,
+              "end": 320770,
+              "text": "X_596b09b3c2."
+            },
+            {
+              "start": 321860,
+              "end": 322600,
+              "text": "X_3765db22f8."
+            },
+            {
+              "start": 322620,
+              "end": 326940,
+              "text": "X_2a0cbda396."
+            },
+            {
+              "start": 327200,
+              "end": 332820,
+              "text": "X_a5f2a3c108."
+            },
+            {
+              "start": 333440,
+              "end": 342440,
+              "text": "X_f3d5b8a4b5."
+            },
+            {
+              "start": 342540,
+              "end": 345920,
+              "text": "X_71dce761ac."
+            },
+            {
+              "start": 346360,
+              "end": 357300,
+              "text": "X_6793447a1c."
+            },
+            {
+              "start": 357300,
+              "end": 358880,
+              "text": "X_5032c5c69f."
+            },
+            {
+              "start": 359430,
+              "end": 359440,
+              "text": "X_f64d8089f5."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 359820,
+              "end": 362220,
+              "text": "X_8e10aaf324."
+            },
+            {
+              "start": 362400,
+              "end": 375420,
+              "text": "X_d3253878ee."
+            },
+            {
+              "start": 377290,
+              "end": 385210,
+              "text": "X_51c1f861c5."
+            },
+            {
+              "start": 385310,
+              "end": 386530,
+              "text": "X_b3e939632f."
+            },
+            {
+              "start": 387090,
+              "end": 393230,
+              "text": "X_15573b68c7."
+            },
+            {
+              "start": 393890,
+              "end": 406070,
+              "text": "X_a7143c7638."
+            }
+          ]
+        },
+        {
+          "speakerId": "8144837420350991516",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 406690,
+              "end": 406810,
+              "text": "X_4f2892a5ff."
+            },
+            {
+              "start": 407030,
+              "end": 408230,
+              "text": "X_ecf2b6a0bb."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 408230,
+              "end": 429010,
+              "text": "X_6602b91000."
+            },
+            {
+              "start": 429510,
+              "end": 442320,
+              "text": "X_040ca00f98."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 451260,
+              "end": 453330,
+              "text": "X_a413470917."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 454370,
+              "end": 458930,
+              "text": "X_5d4c4310f7."
+            },
+            {
+              "start": 459190,
+              "end": 464130,
+              "text": "X_d1715a52fe."
+            },
+            {
+              "start": 464290,
+              "end": 465830,
+              "text": "X_2a542a0db1."
+            },
+            {
+              "start": 465850,
+              "end": 466230,
+              "text": "X_e84833f4e3."
+            }
+          ]
+        },
+        {
+          "speakerId": "8144837420350991516",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 466230,
+              "end": 466630,
+              "text": "X_cc49588c27."
+            },
+            {
+              "start": 466630,
+              "end": 467250,
+              "text": "X_99eafac0b2."
+            },
+            {
+              "start": 467370,
+              "end": 467930,
+              "text": "X_99eafac0b2."
+            },
+            {
+              "start": 468030,
+              "end": 470610,
+              "text": "X_cf9a0b5ced."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 471230,
+              "end": 482980,
+              "text": "X_c266d78e30."
+            },
+            {
+              "start": 483320,
+              "end": 492160,
+              "text": "X_1d2d0820c0."
+            },
+            {
+              "start": 492460,
+              "end": 494360,
+              "text": "X_d65952c8bc."
+            },
+            {
+              "start": 495120,
+              "end": 514200,
+              "text": "X_9e010507ad."
+            },
+            {
+              "start": 514800,
+              "end": 515500,
+              "text": "X_01199a411d."
+            }
+          ]
+        },
+        {
+          "speakerId": "8144837420350991516",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 515500,
+              "end": 519140,
+              "text": "X_52e251f91d."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 519380,
+              "end": 521200,
+              "text": "X_a6b410009f."
+            }
+          ]
+        },
+        {
+          "speakerId": "8144837420350991516",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 521200,
+              "end": 522620,
+              "text": "X_75e8dd4fbe."
+            },
+            {
+              "start": 522780,
+              "end": 523950,
+              "text": "X_04ccab9a78."
+            },
+            {
+              "start": 525080,
+              "end": 527180,
+              "text": "X_d3bc303777."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 527640,
+              "end": 528180,
+              "text": "X_e299286d2b."
+            },
+            {
+              "start": 529540,
+              "end": 529780,
+              "text": "X_42a4dc6ae9."
+            },
+            {
+              "start": 529920,
+              "end": 535380,
+              "text": "X_c226fd145e."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 535520,
+              "end": 548820,
+              "text": "X_a44d82daba."
+            }
+          ]
+        },
+        {
+          "speakerId": "8144837420350991516",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 548820,
+              "end": 560300,
+              "text": "X_909b924579."
+            }
+          ]
+        },
+        {
+          "speakerId": "8144837420350991516",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 560300,
+              "end": 561460,
+              "text": "X_b75c8b82fe."
+            },
+            {
+              "start": 561460,
+              "end": 562920,
+              "text": "X_62e8182648."
+            },
+            {
+              "start": 563080,
+              "end": 564760,
+              "text": "X_596b09b3c2."
+            },
+            {
+              "start": 567970,
+              "end": 569310,
+              "text": "X_31841a1935."
+            },
+            {
+              "start": 569810,
+              "end": 570130,
+              "text": "X_42a4dc6ae9."
+            },
+            {
+              "start": 570310,
+              "end": 571750,
+              "text": "X_ad8b715375."
+            },
+            {
+              "start": 571850,
+              "end": 574710,
+              "text": "X_caaebc4dd3."
+            },
+            {
+              "start": 575400,
+              "end": 575410,
+              "text": "X_757eb50ec1."
+            }
+          ]
+        },
+        {
+          "speakerId": "8144837420350991516",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 582720,
+              "end": 582870,
+              "text": "X_3765db22f8."
+            },
+            {
+              "start": 583950,
+              "end": 585490,
+              "text": "X_f3add2a8a9."
+            },
+            {
+              "start": 585550,
+              "end": 586150,
+              "text": "X_7cb7558323."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 590730,
+              "end": 590740,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 590740,
+              "end": 591680,
+              "text": "X_2affbc2011."
+            },
+            {
+              "start": 591880,
+              "end": 592460,
+              "text": "X_a0a47f4c7e."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 593490,
+              "end": 593720,
+              "text": "X_f55eda9d40."
+            }
+          ]
+        },
+        {
+          "speakerId": "8144837420350991516",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 597310,
+              "end": 597620,
+              "text": "X_1538a1755a."
+            },
+            {
+              "start": 597640,
+              "end": 597920,
+              "text": "X_7a5f4f0f9c."
+            },
+            {
+              "start": 598120,
+              "end": 598420,
+              "text": "X_757eb50ec1."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 598740,
+              "end": 600140,
+              "text": "X_0eada5858d."
+            }
+          ]
+        },
+        {
+          "speakerId": "8144837420350991516",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 600240,
+              "end": 604140,
+              "text": "X_f51c1e4711."
+            },
+            {
+              "start": 604420,
+              "end": 606000,
+              "text": "X_d57c03a6fb."
+            },
+            {
+              "start": 606080,
+              "end": 607820,
+              "text": "X_955989f42d."
+            },
+            {
+              "start": 608000,
+              "end": 610900,
+              "text": "X_fd5cee5d66."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 610900,
+              "end": 611780,
+              "text": "X_daedc1a8d8."
+            }
+          ]
+        },
+        {
+          "speakerId": "8144837420350991516",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 611780,
+              "end": 618500,
+              "text": "X_524b0c60d8."
+            },
+            {
+              "start": 618500,
+              "end": 625340,
+              "text": "X_121d2568ab."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 626500,
+              "end": 626750,
+              "text": "X_596b09b3c2."
+            },
+            {
+              "start": 627550,
+              "end": 628080,
+              "text": "X_3765db22f8."
+            },
+            {
+              "start": 630470,
+              "end": 638710,
+              "text": "X_a8965a11ef."
+            },
+            {
+              "start": 639110,
+              "end": 643410,
+              "text": "X_88cd53ab69."
+            },
+            {
+              "start": 643470,
+              "end": 644270,
+              "text": "X_96d85395d0."
+            },
+            {
+              "start": 644790,
+              "end": 654890,
+              "text": "X_651c6ea8c1."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 657090,
+              "end": 679390,
+              "text": "X_c2646e681b."
+            },
+            {
+              "start": 681840,
+              "end": 693220,
+              "text": "X_8255fd27e4."
+            },
+            {
+              "start": 693420,
+              "end": 695380,
+              "text": "X_0e7f3ceb02."
+            },
+            {
+              "start": 695580,
+              "end": 702060,
+              "text": "X_61991514f0."
+            },
+            {
+              "start": 702400,
+              "end": 702800,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 703180,
+              "end": 703900,
+              "text": "X_fc2bd42cba."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 703900,
+              "end": 715760,
+              "text": "X_8a08e9f464."
+            },
+            {
+              "start": 715930,
+              "end": 717290,
+              "text": "X_4ed3b9efd2."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 717380,
+              "end": 729820,
+              "text": "X_e5b897e191."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 729820,
+              "end": 730150,
+              "text": "X_eb55f35195."
+            },
+            {
+              "start": 730720,
+              "end": 730960,
+              "text": "X_f64d8089f5."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 731380,
+              "end": 740930,
+              "text": "X_b8e4be34ce."
+            },
+            {
+              "start": 741580,
+              "end": 742070,
+              "text": "X_e6ff56027b."
+            },
+            {
+              "start": 742590,
+              "end": 742600,
+              "text": "X_30170e653c."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 744090,
+              "end": 744100,
+              "text": "X_4158b4c247."
+            },
+            {
+              "start": 744100,
+              "end": 755960,
+              "text": "X_440bf7b8ca."
+            },
+            {
+              "start": 756310,
+              "end": 760740,
+              "text": "X_8335dff3e6."
+            },
+            {
+              "start": 761000,
+              "end": 761740,
+              "text": "X_c58865fd8b."
+            },
+            {
+              "start": 762050,
+              "end": 762200,
+              "text": "X_42a4dc6ae9."
+            },
+            {
+              "start": 762200,
+              "end": 762570,
+              "text": "X_348e968fd7."
+            },
+            {
+              "start": 762690,
+              "end": 763100,
+              "text": "X_d680a4400a."
+            },
+            {
+              "start": 763120,
+              "end": 763300,
+              "text": "X_30170e653c."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 763310,
+              "end": 773580,
+              "text": "X_2bf0037c7f."
+            },
+            {
+              "start": 773760,
+              "end": 777000,
+              "text": "X_bb64f53360."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 778070,
+              "end": 778080,
+              "text": "X_4158b4c247."
+            },
+            {
+              "start": 778080,
+              "end": 778180,
+              "text": "X_d680a4400a."
+            },
+            {
+              "start": 778180,
+              "end": 778680,
+              "text": "X_7168e5a547."
+            },
+            {
+              "start": 779600,
+              "end": 780460,
+              "text": "X_3765db22f8."
+            },
+            {
+              "start": 780500,
+              "end": 780900,
+              "text": "X_643bd758d8."
+            },
+            {
+              "start": 781140,
+              "end": 783940,
+              "text": "X_d7e8a8d7dc."
+            },
+            {
+              "start": 784120,
+              "end": 789460,
+              "text": "X_75cb11ceca."
+            },
+            {
+              "start": 789820,
+              "end": 794600,
+              "text": "X_6a4ee5aefa."
+            },
+            {
+              "start": 795840,
+              "end": 797560,
+              "text": "X_d7dce5a609."
+            }
+          ]
+        },
+        {
+          "speakerId": "3181088434703555755",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 797560,
+              "end": 800800,
+              "text": "X_5c5ff92659."
+            },
+            {
+              "start": 801120,
+              "end": 801360,
+              "text": "X_757eb50ec1."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 801800,
+              "end": 802400,
+              "text": "X_390679644c."
+            },
+            {
+              "start": 803600,
+              "end": 804380,
+              "text": "X_8479d3ee47."
+            },
+            {
+              "start": 804580,
+              "end": 812180,
+              "text": "X_14b7183737."
+            },
+            {
+              "start": 812600,
+              "end": 832650,
+              "text": "X_9a48621792."
+            },
+            {
+              "start": 832960,
+              "end": 839010,
+              "text": "X_8a6ae22811."
+            },
+            {
+              "start": 839870,
+              "end": 846570,
+              "text": "X_1fa742f09b."
+            },
+            {
+              "start": 846730,
+              "end": 851200,
+              "text": "X_dd9412e525."
+            },
+            {
+              "start": 851560,
+              "end": 860240,
+              "text": "X_18647a2ed6."
+            },
+            {
+              "start": 861280,
+              "end": 874980,
+              "text": "X_7917a0b86e."
+            },
+            {
+              "start": 876090,
+              "end": 880370,
+              "text": "X_cbc1e9bb0c."
+            },
+            {
+              "start": 880570,
+              "end": 882790,
+              "text": "X_adc1a2320e."
+            },
+            {
+              "start": 883030,
+              "end": 890210,
+              "text": "X_ca2425d59f."
+            },
+            {
+              "start": 890430,
+              "end": 896730,
+              "text": "X_e81f65822a."
+            },
+            {
+              "start": 897030,
+              "end": 902370,
+              "text": "X_56aa8f944c."
+            },
+            {
+              "start": 904790,
+              "end": 906850,
+              "text": "X_7ce3b18dd2."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 906850,
+              "end": 915250,
+              "text": "X_d7f5f1175b."
+            },
+            {
+              "start": 916890,
+              "end": 919150,
+              "text": "X_7129945717."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 919150,
+              "end": 925270,
+              "text": "X_0aa5eb3406."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 926460,
+              "end": 932890,
+              "text": "X_1de194dbf5."
+            },
+            {
+              "start": 933350,
+              "end": 935570,
+              "text": "X_cb623fdc6c."
+            },
+            {
+              "start": 935830,
+              "end": 936410,
+              "text": "X_9bf0506a0c."
+            },
+            {
+              "start": 936530,
+              "end": 937550,
+              "text": "X_7dcba60b29."
+            },
+            {
+              "start": 937670,
+              "end": 940150,
+              "text": "X_0af68ba1cb."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 940230,
+              "end": 940870,
+              "text": "X_a209689142."
+            },
+            {
+              "start": 940990,
+              "end": 943330,
+              "text": "X_86f092782e."
+            },
+            {
+              "start": 943330,
+              "end": 957150,
+              "text": "X_ba40423542."
+            },
+            {
+              "start": 957150,
+              "end": 976350,
+              "text": "X_38ab8c109c."
+            },
+            {
+              "start": 976350,
+              "end": 980390,
+              "text": "X_9e37996235."
+            },
+            {
+              "start": 980550,
+              "end": 989590,
+              "text": "X_1328b583be."
+            },
+            {
+              "start": 990090,
+              "end": 990550,
+              "text": "X_80b3cf2f01."
+            },
+            {
+              "start": 990590,
+              "end": 993890,
+              "text": "X_975068f28a."
+            },
+            {
+              "start": 994970,
+              "end": 996130,
+              "text": "X_d41dd2bde1."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 996130,
+              "end": 997230,
+              "text": "X_76f20a4bac."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 997350,
+              "end": 997730,
+              "text": "X_9bf0506a0c."
+            },
+            {
+              "start": 997810,
+              "end": 1010150,
+              "text": "X_d90e6ba63f."
+            },
+            {
+              "start": 1010150,
+              "end": 1016570,
+              "text": "X_de24b6c446."
+            },
+            {
+              "start": 1016610,
+              "end": 1019510,
+              "text": "X_8c2fd6ea34."
+            },
+            {
+              "start": 1019610,
+              "end": 1024960,
+              "text": "X_966b3c8627."
+            },
+            {
+              "start": 1024960,
+              "end": 1033200,
+              "text": "X_ede8070a7f."
+            },
+            {
+              "start": 1033600,
+              "end": 1034160,
+              "text": "X_9bf0506a0c."
+            },
+            {
+              "start": 1034300,
+              "end": 1038110,
+              "text": "X_9d01c32d2a."
+            },
+            {
+              "start": 1038200,
+              "end": 1038800,
+              "text": "X_7c00f37533."
+            },
+            {
+              "start": 1038800,
+              "end": 1045200,
+              "text": "X_89be26c710."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1045650,
+              "end": 1062800,
+              "text": "X_8ff1b7029a."
+            },
+            {
+              "start": 1062800,
+              "end": 1066920,
+              "text": "X_b2bac27f3e."
+            },
+            {
+              "start": 1066920,
+              "end": 1068340,
+              "text": "X_68b90f356c."
+            },
+            {
+              "start": 1068340,
+              "end": 1081590,
+              "text": "X_393bda4544."
+            },
+            {
+              "start": 1081590,
+              "end": 1084810,
+              "text": "X_e07def7393."
+            },
+            {
+              "start": 1084810,
+              "end": 1087970,
+              "text": "X_ce583823d2."
+            },
+            {
+              "start": 1087970,
+              "end": 1089850,
+              "text": "X_daf4e79b4f."
+            },
+            {
+              "start": 1089850,
+              "end": 1103480,
+              "text": "X_2fd83ad021."
+            },
+            {
+              "start": 1103480,
+              "end": 1111740,
+              "text": "X_c3a0ea67f9."
+            },
+            {
+              "start": 1111740,
+              "end": 1121310,
+              "text": "X_f051c3d836."
+            },
+            {
+              "start": 1121310,
+              "end": 1129460,
+              "text": "X_68bc03ce3e."
+            },
+            {
+              "start": 1129560,
+              "end": 1130200,
+              "text": "X_f64d8089f5."
+            },
+            {
+              "start": 1130200,
+              "end": 1130580,
+              "text": "X_434ede3bbd."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1130580,
+              "end": 1138040,
+              "text": "X_3c77f992d3."
+            },
+            {
+              "start": 1138040,
+              "end": 1143800,
+              "text": "X_954cdcc4ea."
+            },
+            {
+              "start": 1143800,
+              "end": 1145560,
+              "text": "X_d9f179d48a."
+            },
+            {
+              "start": 1145560,
+              "end": 1146040,
+              "text": "X_779561794f."
+            },
+            {
+              "start": 1146040,
+              "end": 1152520,
+              "text": "X_97fb72bac9."
+            },
+            {
+              "start": 1152520,
+              "end": 1155580,
+              "text": "X_f1cc1ace16."
+            },
+            {
+              "start": 1155580,
+              "end": 1161600,
+              "text": "X_030c605b10."
+            },
+            {
+              "start": 1161600,
+              "end": 1162180,
+              "text": "X_434ede3bbd."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1163220,
+              "end": 1176400,
+              "text": "X_7ea414639d."
+            },
+            {
+              "start": 1176400,
+              "end": 1195640,
+              "text": "X_9c09ee3689."
+            },
+            {
+              "start": 1195920,
+              "end": 1206480,
+              "text": "X_a92e2a6345."
+            },
+            {
+              "start": 1206980,
+              "end": 1213180,
+              "text": "X_69118dd894."
+            },
+            {
+              "start": 1213180,
+              "end": 1213860,
+              "text": "X_4cfa8ca0fd."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1213860,
+              "end": 1214780,
+              "text": "X_5bf67ebfde."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1214780,
+              "end": 1220620,
+              "text": "X_7ff7d22cf5."
+            },
+            {
+              "start": 1220620,
+              "end": 1224320,
+              "text": "X_1758c1758b."
+            },
+            {
+              "start": 1224320,
+              "end": 1224960,
+              "text": "X_757eb50ec1."
+            },
+            {
+              "start": 1224960,
+              "end": 1238950,
+              "text": "X_37e5edad95."
+            },
+            {
+              "start": 1238950,
+              "end": 1244190,
+              "text": "X_1b1136aa66."
+            },
+            {
+              "start": 1244190,
+              "end": 1249110,
+              "text": "X_1671ebd8ea."
+            },
+            {
+              "start": 1249110,
+              "end": 1260710,
+              "text": "X_766d2f62ef."
+            },
+            {
+              "start": 1260710,
+              "end": 1263690,
+              "text": "X_09618aec65."
+            },
+            {
+              "start": 1263690,
+              "end": 1266290,
+              "text": "X_91d17b51ed."
+            },
+            {
+              "start": 1266290,
+              "end": 1270850,
+              "text": "X_c604df20c8."
+            },
+            {
+              "start": 1271610,
+              "end": 1274690,
+              "text": "X_9dbd66929b."
+            },
+            {
+              "start": 1274690,
+              "end": 1275310,
+              "text": "X_f64d8089f5."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1276290,
+              "end": 1281490,
+              "text": "X_0058a72e59."
+            },
+            {
+              "start": 1281490,
+              "end": 1283370,
+              "text": "X_36f6fc67dd."
+            },
+            {
+              "start": 1283370,
+              "end": 1294310,
+              "text": "X_c882378d32."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1295040,
+              "end": 1295350,
+              "text": "X_6cfcb4a9cd."
+            },
+            {
+              "start": 1295350,
+              "end": 1297010,
+              "text": "X_b696d87837."
+            },
+            {
+              "start": 1297010,
+              "end": 1302820,
+              "text": "X_26b6409215."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1302820,
+              "end": 1303620,
+              "text": "X_4a9ebd6e4f."
+            },
+            {
+              "start": 1303620,
+              "end": 1304560,
+              "text": "X_6941271fc7."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1304560,
+              "end": 1319480,
+              "text": "X_edb75d3df9."
+            },
+            {
+              "start": 1319480,
+              "end": 1324610,
+              "text": "X_9a86a1958c."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1324960,
+              "end": 1333410,
+              "text": "X_2e54bcbaea."
+            },
+            {
+              "start": 1333410,
+              "end": 1337830,
+              "text": "X_876c0aefea."
+            },
+            {
+              "start": 1337830,
+              "end": 1345550,
+              "text": "X_fd8d27ff4c."
+            },
+            {
+              "start": 1345550,
+              "end": 1354420,
+              "text": "X_cae4af726f."
+            },
+            {
+              "start": 1354420,
+              "end": 1356160,
+              "text": "X_c58cf09e5d."
+            },
+            {
+              "start": 1356160,
+              "end": 1361100,
+              "text": "X_0750718f50."
+            },
+            {
+              "start": 1361100,
+              "end": 1372940,
+              "text": "X_a0d79637ee."
+            },
+            {
+              "start": 1372940,
+              "end": 1373560,
+              "text": "X_434ede3bbd."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1376180,
+              "end": 1389490,
+              "text": "X_c1891ec1cc."
+            },
+            {
+              "start": 1389490,
+              "end": 1393890,
+              "text": "X_3638550479."
+            },
+            {
+              "start": 1394490,
+              "end": 1396850,
+              "text": "X_8d6d7beeb7."
+            },
+            {
+              "start": 1396850,
+              "end": 1422140,
+              "text": "X_d2b968edb7."
+            },
+            {
+              "start": 1422140,
+              "end": 1428560,
+              "text": "X_2afd616538."
+            },
+            {
+              "start": 1428840,
+              "end": 1438060,
+              "text": "X_0df210b788."
+            },
+            {
+              "start": 1438060,
+              "end": 1446720,
+              "text": "X_396b8fd456."
+            },
+            {
+              "start": 1446720,
+              "end": 1451290,
+              "text": "X_1d1cfda7e0."
+            },
+            {
+              "start": 1451290,
+              "end": 1451750,
+              "text": "X_083e90a147."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1451750,
+              "end": 1455770,
+              "text": "X_4a2d917fab."
+            },
+            {
+              "start": 1455770,
+              "end": 1456430,
+              "text": "X_58fe648007."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1456430,
+              "end": 1461110,
+              "text": "X_fa2970e7e0."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1461110,
+              "end": 1462430,
+              "text": "X_f75033ed14."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1462430,
+              "end": 1467170,
+              "text": "X_921aa123b2."
+            },
+            {
+              "start": 1467170,
+              "end": 1471440,
+              "text": "X_5a61114482."
+            },
+            {
+              "start": 1471440,
+              "end": 1475070,
+              "text": "X_60cd29cd14."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1475980,
+              "end": 1480930,
+              "text": "X_69291f3769."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1483160,
+              "end": 1484070,
+              "text": "X_79c4bbc078."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1484070,
+              "end": 1491950,
+              "text": "X_4484b6a5b4."
+            },
+            {
+              "start": 1491950,
+              "end": 1507340,
+              "text": "X_8cd262bec5."
+            },
+            {
+              "start": 1507340,
+              "end": 1511460,
+              "text": "X_d65a724690."
+            },
+            {
+              "start": 1511460,
+              "end": 1518740,
+              "text": "X_e56c1e5dae."
+            },
+            {
+              "start": 1518740,
+              "end": 1521040,
+              "text": "X_6066213872."
+            },
+            {
+              "start": 1521040,
+              "end": 1522160,
+              "text": "X_6bcf0794f5."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1522740,
+              "end": 1523230,
+              "text": "X_d8b311167c."
+            },
+            {
+              "start": 1523230,
+              "end": 1527310,
+              "text": "X_1face0934d."
+            },
+            {
+              "start": 1527310,
+              "end": 1538810,
+              "text": "X_8668834a35."
+            },
+            {
+              "start": 1538810,
+              "end": 1549110,
+              "text": "X_a96e1e7141."
+            },
+            {
+              "start": 1549110,
+              "end": 1551630,
+              "text": "X_dc591ea44c."
+            },
+            {
+              "start": 1551630,
+              "end": 1557010,
+              "text": "X_bbf98b21bd."
+            },
+            {
+              "start": 1557010,
+              "end": 1557730,
+              "text": "X_4abe4d6d27."
+            },
+            {
+              "start": 1557730,
+              "end": 1558210,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 1558210,
+              "end": 1559630,
+              "text": "X_6941271fc7."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1559630,
+              "end": 1562970,
+              "text": "X_a5d0e8ef18."
+            },
+            {
+              "start": 1562970,
+              "end": 1574120,
+              "text": "X_e3e79dab47."
+            },
+            {
+              "start": 1574120,
+              "end": 1589290,
+              "text": "X_f72af0f938."
+            },
+            {
+              "start": 1589300,
+              "end": 1591730,
+              "text": "X_c0fdff41cc."
+            },
+            {
+              "start": 1591730,
+              "end": 1593160,
+              "text": "X_6c441a6aab."
+            },
+            {
+              "start": 1593160,
+              "end": 1597970,
+              "text": "X_86f9460021."
+            },
+            {
+              "start": 1597970,
+              "end": 1607120,
+              "text": "X_3287105529."
+            },
+            {
+              "start": 1607970,
+              "end": 1610340,
+              "text": "X_193b84eba2."
+            },
+            {
+              "start": 1610340,
+              "end": 1625020,
+              "text": "X_2fafc42009."
+            },
+            {
+              "start": 1625020,
+              "end": 1629160,
+              "text": "X_d6d2774d84."
+            },
+            {
+              "start": 1629160,
+              "end": 1634340,
+              "text": "X_fd0b6a2f17."
+            },
+            {
+              "start": 1634340,
+              "end": 1638900,
+              "text": "X_3fb582adef."
+            },
+            {
+              "start": 1639620,
+              "end": 1640000,
+              "text": "X_b5e85dc338."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1640750,
+              "end": 1665010,
+              "text": "X_8b9600e835."
+            },
+            {
+              "start": 1665010,
+              "end": 1670090,
+              "text": "X_6c0a72dc96."
+            },
+            {
+              "start": 1670090,
+              "end": 1675850,
+              "text": "X_4460d5c6ea."
+            },
+            {
+              "start": 1676910,
+              "end": 1681130,
+              "text": "X_6959f72bf7."
+            },
+            {
+              "start": 1681130,
+              "end": 1685450,
+              "text": "X_da5c7fdeea."
+            },
+            {
+              "start": 1685550,
+              "end": 1685910,
+              "text": "X_757eb50ec1."
+            },
+            {
+              "start": 1686050,
+              "end": 1694920,
+              "text": "X_9b8b088b70."
+            },
+            {
+              "start": 1694920,
+              "end": 1696860,
+              "text": "X_be52c0713d."
+            },
+            {
+              "start": 1696860,
+              "end": 1707020,
+              "text": "X_cea99280e6."
+            },
+            {
+              "start": 1707020,
+              "end": 1715210,
+              "text": "X_b88c62fc27."
+            },
+            {
+              "start": 1715210,
+              "end": 1736240,
+              "text": "X_5b2b5c8c30."
+            },
+            {
+              "start": 1737440,
+              "end": 1738280,
+              "text": "X_f64d8089f5."
+            },
+            {
+              "start": 1738280,
+              "end": 1739340,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 1739340,
+              "end": 1741190,
+              "text": "X_2b333a6b03."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1741190,
+              "end": 1759570,
+              "text": "X_6a3038e54f."
+            },
+            {
+              "start": 1759570,
+              "end": 1772390,
+              "text": "X_a83a17179f."
+            },
+            {
+              "start": 1772390,
+              "end": 1777630,
+              "text": "X_924d44a546."
+            },
+            {
+              "start": 1777630,
+              "end": 1789430,
+              "text": "X_281cf58e58."
+            },
+            {
+              "start": 1789430,
+              "end": 1794490,
+              "text": "X_d5e97b9222."
+            },
+            {
+              "start": 1794490,
+              "end": 1795610,
+              "text": "X_49b5d4ee28."
+            },
+            {
+              "start": 1795770,
+              "end": 1797090,
+              "text": "X_dec1e3ab55."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1797090,
+              "end": 1801940,
+              "text": "X_a2d7d9d3f0."
+            },
+            {
+              "start": 1801940,
+              "end": 1820640,
+              "text": "X_d93fe3bce5."
+            },
+            {
+              "start": 1820640,
+              "end": 1829760,
+              "text": "X_87057c280b."
+            },
+            {
+              "start": 1829760,
+              "end": 1830620,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 1830620,
+              "end": 1834440,
+              "text": "X_b19be40fd3."
+            },
+            {
+              "start": 1834440,
+              "end": 1842540,
+              "text": "X_d2b0215685."
+            },
+            {
+              "start": 1842540,
+              "end": 1844720,
+              "text": "X_adbc61326c."
+            },
+            {
+              "start": 1844720,
+              "end": 1849330,
+              "text": "X_7e28a73f9d."
+            },
+            {
+              "start": 1849330,
+              "end": 1849950,
+              "text": "X_434ede3bbd."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1849950,
+              "end": 1851310,
+              "text": "X_436b38e921."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1852600,
+              "end": 1852610,
+              "text": "X_422e0db10a."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1852800,
+              "end": 1866650,
+              "text": "X_0d719418b7."
+            },
+            {
+              "start": 1866650,
+              "end": 1886930,
+              "text": "X_d212affcfe."
+            },
+            {
+              "start": 1886930,
+              "end": 1887140,
+              "text": "X_f64d8089f5."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1888700,
+              "end": 1888890,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 1888890,
+              "end": 1889510,
+              "text": "X_32eb770d5e."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1889510,
+              "end": 1890110,
+              "text": "X_5527517a9f."
+            },
+            {
+              "start": 1890110,
+              "end": 1890530,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 1890530,
+              "end": 1899520,
+              "text": "X_de94c03999."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1901140,
+              "end": 1901150,
+              "text": "X_6988832881."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1901310,
+              "end": 1902830,
+              "text": "X_b7dda40f7c."
+            },
+            {
+              "start": 1902830,
+              "end": 1909810,
+              "text": "X_bd95ee9011."
+            },
+            {
+              "start": 1909810,
+              "end": 1918630,
+              "text": "X_590b09ab75."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": "T_b1867c445c",
+          "sentences": [
+            {
+              "start": 1918630,
+              "end": 1920370,
+              "text": "X_5fa8f11fac."
+            },
+            {
+              "start": 1920370,
+              "end": 1928170,
+              "text": "X_15c1031f11."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_b1867c445c",
+          "sentences": [
+            {
+              "start": 1928170,
+              "end": 1929180,
+              "text": "X_42a4dc6ae9."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": "T_b1867c445c",
+          "sentences": [
+            {
+              "start": 1929650,
+              "end": 1930820,
+              "text": "X_dc7c0d56de."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_b1867c445c",
+          "sentences": [
+            {
+              "start": 1930820,
+              "end": 1939140,
+              "text": "X_cfe009c7cd."
+            },
+            {
+              "start": 1939140,
+              "end": 1946040,
+              "text": "X_7bea6c7cfc."
+            },
+            {
+              "start": 1946040,
+              "end": 1947000,
+              "text": "X_434ede3bbd."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": "T_b1867c445c",
+          "sentences": [
+            {
+              "start": 1947500,
+              "end": 1953380,
+              "text": "X_9e12910477."
+            },
+            {
+              "start": 1953380,
+              "end": 1953800,
+              "text": "X_757eb50ec1."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": "T_b1867c445c",
+          "sentences": [
+            {
+              "start": 1953800,
+              "end": 1955200,
+              "text": "X_7cdd399b11."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1955200,
+              "end": 1965600,
+              "text": "X_f65a0f67dd."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1967000,
+              "end": 1967200,
+              "text": "X_9f18ebbbd6."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1967630,
+              "end": 1984840,
+              "text": "X_dab0197104."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1987700,
+              "end": 1987710,
+              "text": "X_b0081c83bf."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1987730,
+              "end": 1990230,
+              "text": "X_be8242212e."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1991440,
+              "end": 1991730,
+              "text": "X_a8d15e3592."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1993360,
+              "end": 1996370,
+              "text": "X_a734f881b2."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1996370,
+              "end": 1997410,
+              "text": "X_a71078b4e4."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 1999780,
+              "end": 2012930,
+              "text": "X_5d605042eb."
+            },
+            {
+              "start": 2012930,
+              "end": 2026620,
+              "text": "X_344fcce814."
+            },
+            {
+              "start": 2026620,
+              "end": 2028540,
+              "text": "X_970a359c32."
+            },
+            {
+              "start": 2028540,
+              "end": 2036060,
+              "text": "X_a2fdacb946."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2036060,
+              "end": 2037680,
+              "text": "X_da738c3f9b."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2038040,
+              "end": 2051540,
+              "text": "X_ad53c3f0a5."
+            },
+            {
+              "start": 2051540,
+              "end": 2053880,
+              "text": "X_dadf0579c8."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2053880,
+              "end": 2056660,
+              "text": "X_c2318e9d48."
+            },
+            {
+              "start": 2057020,
+              "end": 2063140,
+              "text": "X_362718c0fa."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2063140,
+              "end": 2064160,
+              "text": "X_ffb49032c4."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2064680,
+              "end": 2064880,
+              "text": "X_e8f566713a."
+            },
+            {
+              "start": 2065160,
+              "end": 2073060,
+              "text": "X_0196bee0a8."
+            },
+            {
+              "start": 2073060,
+              "end": 2074160,
+              "text": "X_3e537f8a35."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2075230,
+              "end": 2075240,
+              "text": "X_41e5923476."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2075580,
+              "end": 2082340,
+              "text": "X_b798a94243."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2084210,
+              "end": 2085370,
+              "text": "X_17ee4582a0."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2085600,
+              "end": 2086060,
+              "text": "X_ac70609db3."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2092110,
+              "end": 2094220,
+              "text": "X_3e6d682832."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2097300,
+              "end": 2097310,
+              "text": "X_7beeb405f1."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2097620,
+              "end": 2099510,
+              "text": "X_48fac5fc99."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2111580,
+              "end": 2112010,
+              "text": "X_32e8c4bda1."
+            },
+            {
+              "start": 2112010,
+              "end": 2114810,
+              "text": "X_9518414b0c."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2114810,
+              "end": 2116190,
+              "text": "X_41d508209d."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2116190,
+              "end": 2120610,
+              "text": "X_416f59bb95."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2120610,
+              "end": 2122990,
+              "text": "X_d8edc86720."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2123690,
+              "end": 2125330,
+              "text": "X_c2f2992151."
+            },
+            {
+              "start": 2125330,
+              "end": 2126110,
+              "text": "X_0485d4ddb3."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2126110,
+              "end": 2127950,
+              "text": "X_c0d07020c3."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2127950,
+              "end": 2129060,
+              "text": "X_b22f70104f."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2129600,
+              "end": 2129990,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 2129990,
+              "end": 2130590,
+              "text": "X_1b86c0fe1b."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2130590,
+              "end": 2138970,
+              "text": "X_3e349f1fb5."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2140900,
+              "end": 2140910,
+              "text": "X_fbf433d91b."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2141260,
+              "end": 2142110,
+              "text": "X_3765db22f8."
+            },
+            {
+              "start": 2142250,
+              "end": 2144390,
+              "text": "X_db394e6ee7."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2146810,
+              "end": 2146820,
+              "text": "X_f64d8089f5."
+            },
+            {
+              "start": 2146820,
+              "end": 2147140,
+              "text": "X_7b85344a9f."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2147140,
+              "end": 2160840,
+              "text": "X_e9faf1c705."
+            },
+            {
+              "start": 2160840,
+              "end": 2166640,
+              "text": "X_3106464f21."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2167560,
+              "end": 2168680,
+              "text": "X_b7a24a0b7e."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2168680,
+              "end": 2169420,
+              "text": "X_76f20a4bac."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2169600,
+              "end": 2170500,
+              "text": "X_e46c44073e."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2170500,
+              "end": 2180330,
+              "text": "X_09d2c90199."
+            },
+            {
+              "start": 2184150,
+              "end": 2184510,
+              "text": "X_78420f2c15."
+            },
+            {
+              "start": 2184510,
+              "end": 2190650,
+              "text": "X_c2c8013cee."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2191730,
+              "end": 2192470,
+              "text": "X_5a803e1c74."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2192470,
+              "end": 2201350,
+              "text": "X_2edecf0583."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2203020,
+              "end": 2203040,
+              "text": "X_3590a7c529."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2203390,
+              "end": 2208270,
+              "text": "X_e28f7715fe."
+            },
+            {
+              "start": 2208270,
+              "end": 2211490,
+              "text": "X_e57bbb5039."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2218080,
+              "end": 2222750,
+              "text": "X_3a640c9d9a."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2225400,
+              "end": 2225410,
+              "text": "X_71356c2f46."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2225680,
+              "end": 2227790,
+              "text": "X_75d1a4cc89."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2228450,
+              "end": 2229390,
+              "text": "X_576cc7a393."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2229950,
+              "end": 2231070,
+              "text": "X_133e9bcaab."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2235030,
+              "end": 2235040,
+              "text": "X_f90adf5ed8."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2235140,
+              "end": 2237160,
+              "text": "X_b4229c6e3c."
+            },
+            {
+              "start": 2237160,
+              "end": 2238020,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 2238020,
+              "end": 2247740,
+              "text": "X_d8531e2647."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2249110,
+              "end": 2249580,
+              "text": "X_3d7404583d."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2249580,
+              "end": 2251080,
+              "text": "X_0f9918d7f6."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2254180,
+              "end": 2254190,
+              "text": "X_732f08fb68."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2254210,
+              "end": 2258430,
+              "text": "X_4d4f5255cf."
+            },
+            {
+              "start": 2258430,
+              "end": 2262630,
+              "text": "X_5f2a02632e."
+            },
+            {
+              "start": 2262630,
+              "end": 2263610,
+              "text": "X_d5dba20840."
+            },
+            {
+              "start": 2263610,
+              "end": 2263910,
+              "text": "X_757eb50ec1."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2265620,
+              "end": 2272550,
+              "text": "X_b8af2d80bb."
+            },
+            {
+              "start": 2272550,
+              "end": 2273010,
+              "text": "X_0615c6eccc."
+            },
+            {
+              "start": 2273010,
+              "end": 2277390,
+              "text": "X_f806ae2cdb."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2277390,
+              "end": 2278230,
+              "text": "X_e6d2d879cf."
+            },
+            {
+              "start": 2278230,
+              "end": 2279210,
+              "text": "X_f64d8089f5."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2314970,
+              "end": 2320360,
+              "text": "X_c864b83bce."
+            },
+            {
+              "start": 2321100,
+              "end": 2330100,
+              "text": "X_f381b9b3b8."
+            },
+            {
+              "start": 2330100,
+              "end": 2332460,
+              "text": "X_0b7974d5b4."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2333200,
+              "end": 2349000,
+              "text": "X_7ba2868d70."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2349000,
+              "end": 2349800,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 2350440,
+              "end": 2351160,
+              "text": "X_0615c6eccc."
+            },
+            {
+              "start": 2351160,
+              "end": 2351940,
+              "text": "X_271b17289b."
+            },
+            {
+              "start": 2351940,
+              "end": 2352480,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 2353940,
+              "end": 2354860,
+              "text": "X_434ede3bbd."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2362750,
+              "end": 2367340,
+              "text": "X_40fb465c94."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2393230,
+              "end": 2393970,
+              "text": "X_00dbb00d70."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2394670,
+              "end": 2395490,
+              "text": "X_7e9e3234a8."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2396110,
+              "end": 2397050,
+              "text": "X_94b973558e."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2397050,
+              "end": 2401730,
+              "text": "X_f845fa8001."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2403430,
+              "end": 2403630,
+              "text": "X_07d5b1eeff."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2403630,
+              "end": 2403970,
+              "text": "X_09afab5a9d."
+            },
+            {
+              "start": 2404350,
+              "end": 2414550,
+              "text": "X_19dd2be07f."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2418010,
+              "end": 2418260,
+              "text": "X_6c3ab5fd17."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2418260,
+              "end": 2427240,
+              "text": "X_0c9c0fdbe6."
+            },
+            {
+              "start": 2428000,
+              "end": 2430640,
+              "text": "X_2ad04ef197."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2436370,
+              "end": 2437360,
+              "text": "X_72b6a424f2."
+            },
+            {
+              "start": 2437520,
+              "end": 2437550,
+              "text": "X_434ede3bbd."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2438110,
+              "end": 2439400,
+              "text": "X_9d0e0f9803."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2440620,
+              "end": 2441730,
+              "text": "X_c1f7869253."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2442110,
+              "end": 2443980,
+              "text": "X_256f66840b."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2443980,
+              "end": 2445810,
+              "text": "X_3d93485f1f."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2468290,
+              "end": 2482570,
+              "text": "X_a89716cce3."
+            },
+            {
+              "start": 2482570,
+              "end": 2487830,
+              "text": "X_1777f45cc4."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2488810,
+              "end": 2491990,
+              "text": "X_e1d20c290d."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2493620,
+              "end": 2498640,
+              "text": "X_e3f9bdf84c."
+            },
+            {
+              "start": 2499000,
+              "end": 2503960,
+              "text": "X_95b94a8bcb."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2507260,
+              "end": 2507770,
+              "text": "X_2e7d26a7e6."
+            },
+            {
+              "start": 2507850,
+              "end": 2508770,
+              "text": "X_cc49588c27."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2510830,
+              "end": 2513990,
+              "text": "X_4d1ec33c23."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2513990,
+              "end": 2517470,
+              "text": "X_2da9067627."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2519060,
+              "end": 2519080,
+              "text": "X_6ed0686001."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2519340,
+              "end": 2521910,
+              "text": "X_13fbfb2051."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2522470,
+              "end": 2523180,
+              "text": "X_8fd1060ae4."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2523900,
+              "end": 2534770,
+              "text": "X_7622aab824."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": "T_b1867c445c",
+          "sentences": [
+            {
+              "start": 2537960,
+              "end": 2539050,
+              "text": "X_dfc1c34605."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_b1867c445c",
+          "sentences": [
+            {
+              "start": 2539390,
+              "end": 2540430,
+              "text": "X_18f9d3e0e3."
+            },
+            {
+              "start": 2540730,
+              "end": 2541480,
+              "text": "X_596b09b3c2."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": "T_b1867c445c",
+          "sentences": [
+            {
+              "start": 2544780,
+              "end": 2544900,
+              "text": "X_0cd8e9314c."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_b1867c445c",
+          "sentences": [
+            {
+              "start": 2544990,
+              "end": 2547210,
+              "text": "X_2d2df819b3."
+            },
+            {
+              "start": 2547410,
+              "end": 2548950,
+              "text": "X_5261217ba1."
+            },
+            {
+              "start": 2548950,
+              "end": 2556110,
+              "text": "X_0fc55a09fc."
+            },
+            {
+              "start": 2556750,
+              "end": 2568690,
+              "text": "X_023a43ca94."
+            },
+            {
+              "start": 2568690,
+              "end": 2579710,
+              "text": "X_cc01cb8c61."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": "T_b1867c445c",
+          "sentences": [
+            {
+              "start": 2580230,
+              "end": 2580790,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 2580890,
+              "end": 2581670,
+              "text": "X_9c8c5f7a25."
+            },
+            {
+              "start": 2581770,
+              "end": 2583010,
+              "text": "X_95792af199."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_b1867c445c",
+          "sentences": [
+            {
+              "start": 2583440,
+              "end": 2584650,
+              "text": "X_3765db22f8."
+            },
+            {
+              "start": 2584710,
+              "end": 2586770,
+              "text": "X_0568bfb5d5."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2588690,
+              "end": 2592950,
+              "text": "X_b3b4186359."
+            },
+            {
+              "start": 2593990,
+              "end": 2596790,
+              "text": "X_41b5cdbb24."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2599240,
+              "end": 2599250,
+              "text": "X_a85a2f1ca4."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2599970,
+              "end": 2599980,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 2601170,
+              "end": 2604270,
+              "text": "X_7c3521870d."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2604270,
+              "end": 2604970,
+              "text": "X_4d92c345ef."
+            },
+            {
+              "start": 2605130,
+              "end": 2606650,
+              "text": "X_ab5dd30965."
+            },
+            {
+              "start": 2606950,
+              "end": 2608330,
+              "text": "X_392a7f8d26."
+            },
+            {
+              "start": 2611950,
+              "end": 2612430,
+              "text": "X_71356c2f46."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2612430,
+              "end": 2620310,
+              "text": "X_d9a5ddaffb."
+            },
+            {
+              "start": 2620470,
+              "end": 2624510,
+              "text": "X_999d165286."
+            },
+            {
+              "start": 2624630,
+              "end": 2627650,
+              "text": "X_170932a1ea."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2628330,
+              "end": 2634230,
+              "text": "X_c2e45c022f."
+            },
+            {
+              "start": 2634750,
+              "end": 2640630,
+              "text": "X_671c3f8d69."
+            },
+            {
+              "start": 2641940,
+              "end": 2656200,
+              "text": "X_a557a3de6c."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 2656980,
+              "end": 2667940,
+              "text": "X_506dfff0f4."
+            },
+            {
+              "start": 2668230,
+              "end": 2674460,
+              "text": "X_9e34624b8e."
+            },
+            {
+              "start": 2674540,
+              "end": 2675430,
+              "text": "X_690cdd789c."
+            },
+            {
+              "start": 2675750,
+              "end": 2687600,
+              "text": "X_7148a9baf2."
+            },
+            {
+              "start": 2688000,
+              "end": 2689320,
+              "text": "X_5f37adee26."
+            },
+            {
+              "start": 2689520,
+              "end": 2690080,
+              "text": "X_f64d8089f5."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 2690180,
+              "end": 2690680,
+              "text": "X_8479d3ee47."
+            },
+            {
+              "start": 2690720,
+              "end": 2691310,
+              "text": "X_aff4d216de."
+            },
+            {
+              "start": 2691390,
+              "end": 2694350,
+              "text": "X_6bbeb58dcd."
+            },
+            {
+              "start": 2694500,
+              "end": 2696580,
+              "text": "X_af049a40c8."
+            },
+            {
+              "start": 2697080,
+              "end": 2702540,
+              "text": "X_6e15cec1b2."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 2704620,
+              "end": 2705430,
+              "text": "X_513d588be3."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 2705430,
+              "end": 2706750,
+              "text": "X_b681a20b14."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 2707230,
+              "end": 2707990,
+              "text": "X_619702c87a."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": "T_a3b6ae6963",
+          "sentences": [
+            {
+              "start": 2707990,
+              "end": 2710990,
+              "text": "X_d7f4332444."
+            },
+            {
+              "start": 2711490,
+              "end": 2711950,
+              "text": "X_f64d8089f5."
+            },
+            {
+              "start": 2711990,
+              "end": 2714370,
+              "text": "X_29735f5b9b."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2714490,
+              "end": 2717710,
+              "text": "X_ea9d923f67."
+            },
+            {
+              "start": 2718510,
+              "end": 2723630,
+              "text": "X_f5e7aadbd8."
+            },
+            {
+              "start": 2723850,
+              "end": 2749230,
+              "text": "X_2dc98be07f."
+            },
+            {
+              "start": 2749870,
+              "end": 2754830,
+              "text": "X_418ff9e3c6."
+            },
+            {
+              "start": 2755130,
+              "end": 2758650,
+              "text": "X_99b842e55a."
+            },
+            {
+              "start": 2758830,
+              "end": 2760290,
+              "text": "X_8a338b6d02."
+            },
+            {
+              "start": 2760490,
+              "end": 2771670,
+              "text": "X_657f9bd80a."
+            },
+            {
+              "start": 2772490,
+              "end": 2773090,
+              "text": "X_f64d8089f5."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2773090,
+              "end": 2775810,
+              "text": "X_113facc6a6."
+            },
+            {
+              "start": 2775930,
+              "end": 2776070,
+              "text": "X_fa7b978343."
+            },
+            {
+              "start": 2776130,
+              "end": 2782710,
+              "text": "X_0aa3c76565."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2783380,
+              "end": 2785040,
+              "text": "X_1882823553."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2785040,
+              "end": 2794160,
+              "text": "X_46e80530e1."
+            },
+            {
+              "start": 2794660,
+              "end": 2795040,
+              "text": "X_f64d8089f5."
+            }
+          ]
+        },
+        {
+          "speakerId": "8144837420350991516",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2795120,
+              "end": 2798200,
+              "text": "X_d1118f145b."
+            },
+            {
+              "start": 2798300,
+              "end": 2806000,
+              "text": "X_32e19b5854."
+            },
+            {
+              "start": 2806140,
+              "end": 2808140,
+              "text": "X_40c19c1fcf."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2809840,
+              "end": 2810220,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 2810750,
+              "end": 2811310,
+              "text": "X_752622e0fb."
+            },
+            {
+              "start": 2811440,
+              "end": 2811680,
+              "text": "X_f64d8089f5."
+            },
+            {
+              "start": 2812330,
+              "end": 2812850,
+              "text": "X_4158b4c247."
+            },
+            {
+              "start": 2813070,
+              "end": 2815570,
+              "text": "X_fd8659122d."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2815570,
+              "end": 2816020,
+              "text": "X_baa0dc6ca0."
+            },
+            {
+              "start": 2816440,
+              "end": 2826830,
+              "text": "X_a569b89ad6."
+            },
+            {
+              "start": 2826980,
+              "end": 2828250,
+              "text": "X_27425a30f5."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2829230,
+              "end": 2829500,
+              "text": "X_497f680dcd."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2830140,
+              "end": 2834160,
+              "text": "X_ffa76f72c6."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2834500,
+              "end": 2835680,
+              "text": "X_a48089d078."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2835860,
+              "end": 2839980,
+              "text": "X_4db0c4fa45."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 2840200,
+              "end": 2846800,
+              "text": "X_45ca479c91."
+            },
+            {
+              "start": 2847000,
+              "end": 2854640,
+              "text": "X_3164642d5a."
+            },
+            {
+              "start": 2854780,
+              "end": 2862620,
+              "text": "X_1b8daf393c."
+            },
+            {
+              "start": 2863020,
+              "end": 2868920,
+              "text": "X_a00f7dbd5c."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 2869440,
+              "end": 2869900,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 2870000,
+              "end": 2870380,
+              "text": "X_f64d8089f5."
+            },
+            {
+              "start": 2870500,
+              "end": 2875700,
+              "text": "X_7026e16e6b."
+            },
+            {
+              "start": 2876100,
+              "end": 2885500,
+              "text": "X_d04454d000."
+            },
+            {
+              "start": 2885640,
+              "end": 2891410,
+              "text": "X_bda36e2b02."
+            },
+            {
+              "start": 2891810,
+              "end": 2898180,
+              "text": "X_0a7ae9968f."
+            },
+            {
+              "start": 2898250,
+              "end": 2899350,
+              "text": "X_238b1549cf."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 2899350,
+              "end": 2904410,
+              "text": "X_a737ec4773."
+            },
+            {
+              "start": 2904530,
+              "end": 2904730,
+              "text": "X_fa7b978343."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": "T_a118618b63",
+          "sentences": [
+            {
+              "start": 2904870,
+              "end": 2906830,
+              "text": "X_0ab9fd86b2."
+            },
+            {
+              "start": 2907030,
+              "end": 2909580,
+              "text": "X_e8b96f4a67."
+            },
+            {
+              "start": 2909700,
+              "end": 2917560,
+              "text": "X_0bfd574091."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2917950,
+              "end": 2918790,
+              "text": "X_237d1e7f7f."
+            },
+            {
+              "start": 2919390,
+              "end": 2933150,
+              "text": "X_3ee130b9f0."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2935820,
+              "end": 2935840,
+              "text": "X_32d47f66c9."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2936310,
+              "end": 2948990,
+              "text": "X_cc5945534b."
+            },
+            {
+              "start": 2949190,
+              "end": 2956090,
+              "text": "X_d155533f1d."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2956990,
+              "end": 2957470,
+              "text": "X_f64d8089f5."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2958610,
+              "end": 2960330,
+              "text": "X_013c477703."
+            },
+            {
+              "start": 2960470,
+              "end": 2960910,
+              "text": "X_757eb50ec1."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2962010,
+              "end": 2963650,
+              "text": "X_377e84dafc."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2963650,
+              "end": 2964790,
+              "text": "X_fc13acea4f."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2964790,
+              "end": 2974260,
+              "text": "X_3e6dd9ed92."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2974910,
+              "end": 2977650,
+              "text": "X_aae292f1f2."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 2977830,
+              "end": 2978510,
+              "text": "X_f64d8089f5."
+            },
+            {
+              "start": 2978570,
+              "end": 2984870,
+              "text": "X_d4fa900db7."
+            },
+            {
+              "start": 2985110,
+              "end": 2988830,
+              "text": "X_a335748aa7."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3033170,
+              "end": 3034470,
+              "text": "X_0ebe28e839."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3047540,
+              "end": 3047640,
+              "text": "X_ab9914fd49."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3094800,
+              "end": 3098680,
+              "text": "X_52fd07c3f6."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3099640,
+              "end": 3104000,
+              "text": "X_7b8a8b302c."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3105650,
+              "end": 3106260,
+              "text": "X_edbacc8706."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3106440,
+              "end": 3108500,
+              "text": "X_f217162499."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3111020,
+              "end": 3112090,
+              "text": "X_2889c06070."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3112420,
+              "end": 3114150,
+              "text": "X_ed3009e9bf."
+            },
+            {
+              "start": 3114150,
+              "end": 3118050,
+              "text": "X_f358e09e55."
+            },
+            {
+              "start": 3118630,
+              "end": 3122670,
+              "text": "X_8448b87b24."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3123450,
+              "end": 3123930,
+              "text": "X_f64d8089f5."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3124190,
+              "end": 3125330,
+              "text": "X_889af13f34."
+            },
+            {
+              "start": 3125430,
+              "end": 3125610,
+              "text": "X_f64d8089f5."
+            },
+            {
+              "start": 3126310,
+              "end": 3127730,
+              "text": "X_50b3b3e2ad."
+            },
+            {
+              "start": 3127950,
+              "end": 3128250,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 3128350,
+              "end": 3129550,
+              "text": "X_3e1974585c."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3130750,
+              "end": 3131560,
+              "text": "X_e85f505d2f."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3132130,
+              "end": 3133710,
+              "text": "X_26537dc7d2."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3133830,
+              "end": 3134590,
+              "text": "X_6941271fc7."
+            },
+            {
+              "start": 3134670,
+              "end": 3135070,
+              "text": "X_f64d8089f5."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3148570,
+              "end": 3154060,
+              "text": "X_d26fba2715."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3154060,
+              "end": 3154550,
+              "text": "X_1d516d6b7a."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3154960,
+              "end": 3156100,
+              "text": "X_6c980ad0aa."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3156620,
+              "end": 3156840,
+              "text": "X_4158b4c247."
+            },
+            {
+              "start": 3156840,
+              "end": 3165920,
+              "text": "X_19be965fb5."
+            },
+            {
+              "start": 3166040,
+              "end": 3167260,
+              "text": "X_91442b41c9."
+            },
+            {
+              "start": 3167700,
+              "end": 3168180,
+              "text": "X_757eb50ec1."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3170810,
+              "end": 3170820,
+              "text": "X_ac70609db3."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3171020,
+              "end": 3176360,
+              "text": "X_4a4ab844cf."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3177140,
+              "end": 3177920,
+              "text": "X_fbf433d91b."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3184240,
+              "end": 3184630,
+              "text": "X_b187ec87e0."
+            },
+            {
+              "start": 3184630,
+              "end": 3187110,
+              "text": "X_8fe3795ce6."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3188190,
+              "end": 3189130,
+              "text": "X_6cebb9c8b4."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3189130,
+              "end": 3191290,
+              "text": "X_d501d938d4."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3191290,
+              "end": 3192730,
+              "text": "X_556cdca8b3."
+            },
+            {
+              "start": 3192730,
+              "end": 3193230,
+              "text": "X_d4b6a90e34."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3193230,
+              "end": 3193570,
+              "text": "X_a4d8527fad."
+            },
+            {
+              "start": 3193570,
+              "end": 3194650,
+              "text": "X_3765db22f8."
+            },
+            {
+              "start": 3194650,
+              "end": 3198910,
+              "text": "X_edf07bc726."
+            },
+            {
+              "start": 3198910,
+              "end": 3202530,
+              "text": "X_f9b3765b27."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3202530,
+              "end": 3203590,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 3203590,
+              "end": 3204150,
+              "text": "X_f64d8089f5."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3206380,
+              "end": 3206390,
+              "text": "X_94b973558e."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3206560,
+              "end": 3208030,
+              "text": "X_7b3e9b3ab4."
+            },
+            {
+              "start": 3208030,
+              "end": 3208990,
+              "text": "X_e9b676e409."
+            },
+            {
+              "start": 3208990,
+              "end": 3211920,
+              "text": "X_585b73824a."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3212290,
+              "end": 3214610,
+              "text": "X_48625082ab."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3214610,
+              "end": 3216910,
+              "text": "X_a980f0b811."
+            },
+            {
+              "start": 3216910,
+              "end": 3219330,
+              "text": "X_8331871382."
+            },
+            {
+              "start": 3219330,
+              "end": 3223470,
+              "text": "X_c160c15a35."
+            },
+            {
+              "start": 3223470,
+              "end": 3225730,
+              "text": "X_1b2416ada0."
+            },
+            {
+              "start": 3225730,
+              "end": 3229230,
+              "text": "X_6b067d12c6."
+            },
+            {
+              "start": 3229230,
+              "end": 3232350,
+              "text": "X_dd98622ceb."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3233410,
+              "end": 3233780,
+              "text": "X_a807bc81a0."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3234430,
+              "end": 3234850,
+              "text": "X_5ecef76f43."
+            },
+            {
+              "start": 3234850,
+              "end": 3235290,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 3235290,
+              "end": 3235830,
+              "text": "X_16f6c9a944."
+            },
+            {
+              "start": 3235830,
+              "end": 3236430,
+              "text": "X_fbf433d91b."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3236430,
+              "end": 3240130,
+              "text": "X_ea57421133."
+            },
+            {
+              "start": 3240130,
+              "end": 3240510,
+              "text": "X_f64d8089f5."
+            },
+            {
+              "start": 3240510,
+              "end": 3241710,
+              "text": "X_f4496dfe41."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3241710,
+              "end": 3247630,
+              "text": "X_bd3edfe5db."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3248430,
+              "end": 3249630,
+              "text": "X_94301750f9."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3249630,
+              "end": 3251890,
+              "text": "X_e7e15588fa."
+            },
+            {
+              "start": 3251890,
+              "end": 3257270,
+              "text": "X_83407abbee."
+            },
+            {
+              "start": 3257270,
+              "end": 3262870,
+              "text": "X_c6186b386a."
+            },
+            {
+              "start": 3262870,
+              "end": 3269900,
+              "text": "X_3bd0e478ee."
+            },
+            {
+              "start": 3269900,
+              "end": 3274600,
+              "text": "X_ddc0452cc6."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3274600,
+              "end": 3275640,
+              "text": "X_732f08fb68."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3275640,
+              "end": 3290000,
+              "text": "X_696cffe5d5."
+            },
+            {
+              "start": 3290000,
+              "end": 3323190,
+              "text": "X_a8e86edc1e."
+            },
+            {
+              "start": 3323190,
+              "end": 3325930,
+              "text": "X_7980c6435d."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3326230,
+              "end": 3331530,
+              "text": "X_550ce6e3ac."
+            },
+            {
+              "start": 3331530,
+              "end": 3346940,
+              "text": "X_c35db97414."
+            },
+            {
+              "start": 3346940,
+              "end": 3347830,
+              "text": "X_f64d8089f5."
+            },
+            {
+              "start": 3347830,
+              "end": 3354540,
+              "text": "X_4670fea091."
+            },
+            {
+              "start": 3354540,
+              "end": 3361960,
+              "text": "X_bd0ede9e62."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3361960,
+              "end": 3362860,
+              "text": "X_e6a4a8d31d."
+            },
+            {
+              "start": 3362860,
+              "end": 3363060,
+              "text": "X_f64d8089f5."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3363060,
+              "end": 3364160,
+              "text": "X_8fd719d777."
+            },
+            {
+              "start": 3364160,
+              "end": 3367740,
+              "text": "X_35d277f6c7."
+            },
+            {
+              "start": 3367740,
+              "end": 3374340,
+              "text": "X_4e4ac19fa4."
+            },
+            {
+              "start": 3374340,
+              "end": 3383640,
+              "text": "X_18018d3b56."
+            },
+            {
+              "start": 3383640,
+              "end": 3388950,
+              "text": "X_2551774858."
+            },
+            {
+              "start": 3388950,
+              "end": 3396690,
+              "text": "X_8a5456f9de."
+            },
+            {
+              "start": 3396690,
+              "end": 3408130,
+              "text": "X_289d61a392."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3408130,
+              "end": 3413010,
+              "text": "X_bf53b983bb."
+            },
+            {
+              "start": 3413010,
+              "end": 3420870,
+              "text": "X_23dc547af4."
+            },
+            {
+              "start": 3420870,
+              "end": 3423690,
+              "text": "X_9ae89b8945."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3423690,
+              "end": 3424710,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 3424710,
+              "end": 3425320,
+              "text": "X_c6ffc5c7d9."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3425630,
+              "end": 3443630,
+              "text": "X_c646c26266."
+            },
+            {
+              "start": 3443640,
+              "end": 3448390,
+              "text": "X_238b92df39."
+            },
+            {
+              "start": 3448390,
+              "end": 3452700,
+              "text": "X_481fea3c03."
+            },
+            {
+              "start": 3452700,
+              "end": 3458170,
+              "text": "X_45ffaf34ca."
+            },
+            {
+              "start": 3458180,
+              "end": 3460730,
+              "text": "X_b3ea2383e7."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3462950,
+              "end": 3462960,
+              "text": "X_a85a2f1ca4."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3463120,
+              "end": 3469580,
+              "text": "X_024dfe44c1."
+            },
+            {
+              "start": 3469580,
+              "end": 3470420,
+              "text": "X_434ede3bbd."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3470420,
+              "end": 3474820,
+              "text": "X_8b506508d1."
+            },
+            {
+              "start": 3474820,
+              "end": 3481080,
+              "text": "X_193401882c."
+            },
+            {
+              "start": 3481080,
+              "end": 3481940,
+              "text": "X_f948aaa08d."
+            },
+            {
+              "start": 3481940,
+              "end": 3485740,
+              "text": "X_cff4e06a4d."
+            },
+            {
+              "start": 3485740,
+              "end": 3490180,
+              "text": "X_f0fdc68714."
+            },
+            {
+              "start": 3490180,
+              "end": 3490840,
+              "text": "X_71a487ada2."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3496710,
+              "end": 3496820,
+              "text": "X_1b86c0fe1b."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3498930,
+              "end": 3509700,
+              "text": "X_b8e2f2ca88."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3514490,
+              "end": 3514500,
+              "text": "X_9bf0506a0c."
+            },
+            {
+              "start": 3514500,
+              "end": 3516960,
+              "text": "X_f62f5f2c49."
+            },
+            {
+              "start": 3517020,
+              "end": 3518640,
+              "text": "X_a303cad619."
+            },
+            {
+              "start": 3518660,
+              "end": 3518980,
+              "text": "X_0615c6eccc."
+            },
+            {
+              "start": 3519020,
+              "end": 3519380,
+              "text": "X_fd64574354."
+            },
+            {
+              "start": 3519580,
+              "end": 3521580,
+              "text": "X_1da3fa43ba."
+            },
+            {
+              "start": 3521920,
+              "end": 3523580,
+              "text": "X_cf9130e215."
+            },
+            {
+              "start": 3524100,
+              "end": 3532320,
+              "text": "X_f8c418997a."
+            },
+            {
+              "start": 3532660,
+              "end": 3533420,
+              "text": "X_80c44fd07e."
+            },
+            {
+              "start": 3533420,
+              "end": 3536140,
+              "text": "X_1227f93513."
+            },
+            {
+              "start": 3536520,
+              "end": 3537740,
+              "text": "X_a4998fd9e9."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3538380,
+              "end": 3538780,
+              "text": "X_9bf0506a0c."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3539760,
+              "end": 3544090,
+              "text": "X_8815158b4c."
+            }
+          ]
+        },
+        {
+          "speakerId": "9734387283728774871",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3545230,
+              "end": 3546060,
+              "text": "X_a15684d21f."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3546910,
+              "end": 3549280,
+              "text": "X_9b73a0a27f."
+            },
+            {
+              "start": 3549290,
+              "end": 3549460,
+              "text": "X_d680a4400a."
+            },
+            {
+              "start": 3549480,
+              "end": 3549910,
+              "text": "X_91667a5159."
+            },
+            {
+              "start": 3550150,
+              "end": 3551550,
+              "text": "X_24c2d3f819."
+            },
+            {
+              "start": 3551670,
+              "end": 3552120,
+              "text": "X_d8e0e5ae4c."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3552480,
+              "end": 3553020,
+              "text": "X_9bf0506a0c."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3554250,
+              "end": 3555640,
+              "text": "X_66e291fe68."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3555650,
+              "end": 3555890,
+              "text": "X_b3b3a00328."
+            },
+            {
+              "start": 3555940,
+              "end": 3557810,
+              "text": "X_37d2c0af4f."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3558020,
+              "end": 3559000,
+              "text": "X_dd5273e1ca."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3559000,
+              "end": 3559870,
+              "text": "X_ee79890472."
+            },
+            {
+              "start": 3560170,
+              "end": 3564010,
+              "text": "X_7ea5a1116e."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3564310,
+              "end": 3565390,
+              "text": "X_c9d5c0dbc9."
+            },
+            {
+              "start": 3565460,
+              "end": 3574140,
+              "text": "X_dee41c4b03."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3575460,
+              "end": 3576020,
+              "text": "X_9bf0506a0c."
+            },
+            {
+              "start": 3576120,
+              "end": 3576320,
+              "text": "X_d680a4400a."
+            },
+            {
+              "start": 3576320,
+              "end": 3576940,
+              "text": "X_3765db22f8."
+            },
+            {
+              "start": 3577060,
+              "end": 3577420,
+              "text": "X_f64d8089f5."
+            },
+            {
+              "start": 3578140,
+              "end": 3578700,
+              "text": "X_5e4f9d3741."
+            },
+            {
+              "start": 3579020,
+              "end": 3583880,
+              "text": "X_9f7cf8c9fc."
+            },
+            {
+              "start": 3585710,
+              "end": 3588530,
+              "text": "X_a071c111e9."
+            },
+            {
+              "start": 3589230,
+              "end": 3598510,
+              "text": "X_94791141eb."
+            },
+            {
+              "start": 3598510,
+              "end": 3605910,
+              "text": "X_47c7a772c8."
+            },
+            {
+              "start": 3606070,
+              "end": 3613080,
+              "text": "X_d481406875."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3613080,
+              "end": 3614200,
+              "text": "X_9866146d00."
+            },
+            {
+              "start": 3614820,
+              "end": 3615300,
+              "text": "X_f64d8089f5."
+            },
+            {
+              "start": 3615420,
+              "end": 3619480,
+              "text": "X_e5c9f7d112."
+            },
+            {
+              "start": 3619760,
+              "end": 3620730,
+              "text": "X_7df2350d5f."
+            },
+            {
+              "start": 3620900,
+              "end": 3626040,
+              "text": "X_2749f6fad3."
+            },
+            {
+              "start": 3627240,
+              "end": 3627700,
+              "text": "X_f64d8089f5."
+            },
+            {
+              "start": 3627780,
+              "end": 3632900,
+              "text": "X_e2dcd6bbc1."
+            },
+            {
+              "start": 3633120,
+              "end": 3636100,
+              "text": "X_35d0d5a1a3."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3639280,
+              "end": 3640430,
+              "text": "X_7ababa4fca."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3640770,
+              "end": 3642090,
+              "text": "X_d092c364e6."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3642090,
+              "end": 3644830,
+              "text": "X_25c3a37de1."
+            },
+            {
+              "start": 3644870,
+              "end": 3657100,
+              "text": "X_c40c574224."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3657100,
+              "end": 3660420,
+              "text": "X_ae498a496d."
+            },
+            {
+              "start": 3660580,
+              "end": 3669540,
+              "text": "X_145880ba70."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3670380,
+              "end": 3683740,
+              "text": "X_571c58bdba."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3683740,
+              "end": 3685680,
+              "text": "X_c4a6b29618."
+            },
+            {
+              "start": 3685760,
+              "end": 3687320,
+              "text": "X_178b999992."
+            },
+            {
+              "start": 3688380,
+              "end": 3691480,
+              "text": "X_a18dfa0639."
+            },
+            {
+              "start": 3692340,
+              "end": 3699720,
+              "text": "X_1dade651a7."
+            },
+            {
+              "start": 3699840,
+              "end": 3705080,
+              "text": "X_e998797d32."
+            },
+            {
+              "start": 3705380,
+              "end": 3713300,
+              "text": "X_cd593919f2."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3714200,
+              "end": 3714680,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 3714780,
+              "end": 3717470,
+              "text": "X_42e9359d51."
+            },
+            {
+              "start": 3717610,
+              "end": 3718870,
+              "text": "X_ae3660a244."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3719490,
+              "end": 3720150,
+              "text": "X_71c7a38ec8."
+            },
+            {
+              "start": 3720350,
+              "end": 3723830,
+              "text": "X_f18743034d."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3724190,
+              "end": 3724630,
+              "text": "X_fbf433d91b."
+            },
+            {
+              "start": 3724730,
+              "end": 3731610,
+              "text": "X_a5923c33fb."
+            },
+            {
+              "start": 3731970,
+              "end": 3732270,
+              "text": "X_757eb50ec1."
+            },
+            {
+              "start": 3732350,
+              "end": 3732650,
+              "text": "X_5e4f9d3741."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3732790,
+              "end": 3734250,
+              "text": "X_c08e126f25."
+            },
+            {
+              "start": 3734450,
+              "end": 3738830,
+              "text": "X_e3ace4f552."
+            },
+            {
+              "start": 3738990,
+              "end": 3742550,
+              "text": "X_90dcd3d926."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3743310,
+              "end": 3747770,
+              "text": "X_4fab845aa4."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3749190,
+              "end": 3752610,
+              "text": "X_2e4a5f76b5."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3753450,
+              "end": 3754430,
+              "text": "X_dad63c9702."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3754430,
+              "end": 3754710,
+              "text": "X_a416d6b923."
+            },
+            {
+              "start": 3755030,
+              "end": 3756950,
+              "text": "X_7fbec2fe8e."
+            },
+            {
+              "start": 3757410,
+              "end": 3758510,
+              "text": "X_9c0857d729."
+            },
+            {
+              "start": 3758550,
+              "end": 3759390,
+              "text": "X_aff4d216de."
+            },
+            {
+              "start": 3759670,
+              "end": 3760150,
+              "text": "X_b4e7012a1c."
+            },
+            {
+              "start": 3760210,
+              "end": 3760690,
+              "text": "X_8cfc3b4b44."
+            },
+            {
+              "start": 3760990,
+              "end": 3762090,
+              "text": "X_f22185c445."
+            },
+            {
+              "start": 3762090,
+              "end": 3763030,
+              "text": "X_b0cb106946."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3764490,
+              "end": 3764970,
+              "text": "X_11151c7935."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3764970,
+              "end": 3765930,
+              "text": "X_4624ef4c38."
+            },
+            {
+              "start": 3766350,
+              "end": 3769470,
+              "text": "X_702d34a807."
+            },
+            {
+              "start": 3769850,
+              "end": 3785510,
+              "text": "X_c26cc943f6."
+            },
+            {
+              "start": 3785810,
+              "end": 3794230,
+              "text": "X_e65ff45e2f."
+            },
+            {
+              "start": 3794330,
+              "end": 3795290,
+              "text": "X_f521444d6a."
+            }
+          ]
+        },
+        {
+          "speakerId": "7277588931845838817",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3795630,
+              "end": 3797340,
+              "text": "X_9045999d68."
+            },
+            {
+              "start": 3797340,
+              "end": 3799420,
+              "text": "X_76ce96d43b."
+            }
+          ]
+        },
+        {
+          "speakerId": "3756161115312263013",
+          "topic": null,
+          "sentences": [
+            {
+              "start": 3799420,
+              "end": 3799600,
+              "text": "X_a9e74112f8."
+            },
+            {
+              "start": 3799600,
+              "end": 3800380,
+              "text": "X_d2b57c48ae."
+            },
+            {
+              "start": 3800380,
+              "end": 3802040,
+              "text": "X_ac0da9afde."
+            },
+            {
+              "start": 3802040,
+              "end": 3802320,
+              "text": "X_49c1d4a967."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1041 @@
+---
+source: tests/renderer.rs
+expression: first.markdown
+---
+---
+title: "Fixture_568f5874cb /"
+account: "A_2413d870f1"
+date: "2026-05-19"
+started: "2026-05-19T11:59:30.68-07:00"
+duration_minutes: 63
+meeting_provider: "Microsoft Teams"
+host: "P_8c6859d580"
+gong_call_id: "1860496513693944597"
+gong_url: "https://example.gong.io/call/1860496513693944597"
+document_type: "meeting-notes"
+source_type: "gong-transcript"
+customer_contacts:
+  - title: "R_eac22edb30"
+    email: "p-1d9f1f6926@customer-ff551834.example"
+  - email: "p-618d94ea79@customer-ff551834.example"
+  - title: "R_c0a66b51b1"
+    email: "p-a7f4654ae3@customer-ff551834.example"
+  - title: "R_04ce53ae16"
+    email: "p-b608e307f5@customer-ff551834.example"
+  - email: "p-cdb2d6fb61@customer-ff551834.example"
+  - name: "P_938bee05b2"
+    title: "R_2bd1637512"
+    email: "p-a6213ff2b4@customer-ff551834.example"
+  - name: "P_a77319e5d0"
+    title: "R_57ee51baf6"
+    email: "p-e40d72fd91@customer-ff551834.example"
+  - name: "P_fe1d3c95b0"
+    title: "R_1c3b715ba9"
+    email: "p-b113f90ee1@customer-ff551834.example"
+internal_attendees:
+  - title: "R_67e176c255"
+    email: "p-46f90aec04@internal-example.com"
+  - title: "R_21eee63913"
+    email: "p-774dc25674@internal-example.com"
+  - title: "R_93941e83b6"
+    email: "p-a0d8806a5d@internal-example.com"
+  - title: "R_3f74a08702"
+    email: "p-f8b53690ed@internal-example.com"
+  - name: "P_2fbe0ab6ab"
+    title: "R_15e3a140fc"
+    email: "p-0c4a5862d5@internal-example.com"
+  - name: "P_409d4e4f26"
+    title: "R_f88fc85b66"
+    email: "p-1d2ee9b46f@internal-example.com"
+  - name: "P_6ba4b20da8"
+    title: "R_20dc19fbcf"
+    email: "p-adbe64f81e@internal-example.com"
+  - name: "P_8c6859d580"
+    title: "R_13215f97a5"
+    email: "p-5e4e77d43d@internal-example.com"
+  - name: "P_935ebdda77"
+    title: "R_2936678fbe"
+    email: "p-090670d490@internal-example.com"
+---
+
+# Fixture_568f5874cb /
+
+## Summary
+
+B_c80f156786.
+
+### Key points
+
+- K_c360301565.
+- K_2510dd32e1.
+- K_859c788935.
+- K_803f72f082.
+- K_e4ec483806.
+- K_72027842f9.
+- K_d949226869.
+- K_c11e476354.
+- K_06a0371ae9.
+- K_be59eb6026.
+
+### Next steps
+
+- N_a8673177b8.
+- N_454bb5735a.
+- N_b2d1459087.
+- N_6b29e4312d.
+- N_748fd64bde.
+- N_192e7fc187.
+- N_f8c1b74d15.
+- N_d0a9a2162b.
+- N_90cfe3cfa0.
+- N_a12bef99bf.
+
+## Outline
+
+- [0:00] S_e7328c45c8
+- [4:04] S_76498b9e46
+- [5:15] S_5fba6ca75f
+- [10:26] S_283db6bdd3
+- [13:17] S_12ef112e34
+- [17:25] S_fd1f37caa0
+- [22:04] S_db26afc9d1
+- [25:22] S_396b2d2d39
+- [31:28] S_1fbdb93bbb
+- [34:13] S_10a8dc8a5e
+- [36:09] S_97b7ffa837
+- [43:03] S_fc85548255
+- [45:14] S_76498b9e46
+- [46:55] S_2173faa8fb
+- [48:55] S_991a26913c
+- [51:34] S_5461e43139
+- [52:36] S_7c89880214
+- [53:32] S_ee78a08920
+- [54:34] S_a5ad5dc148
+- [56:48] S_0d38879092
+- [57:50] S_1d3438f5c6
+- [59:15] S_880fe62968
+- [61:10] S_c3b34d39b5
+- [62:12] S_e76cc5ee1f
+- [62:44] S_6e76c16e2e
+
+## Transcript
+
+### S_e7328c45c8 [0:00]
+
+0:00 | P_8c6859d580
+X_98cc4972a6. X_f975f5be5f. X_a6175a9ef7. X_66b27a966b. X_9ea0101a6d. X_c5d57a2522. X_757eb50ec1. X_cefe327074. X_259326c564. X_e84e8cc680. X_70de3fb7d9.
+
+0:16 | P_2fbe0ab6ab
+X_e20ba286fe.
+
+0:17 | P_8c6859d580
+X_7a3d47fcd9. X_76f20a4bac. X_1f29300456. X_ca1390fa59.
+
+0:25 | P_2fbe0ab6ab
+X_8a5121295c. X_ca1390fa59.
+
+0:26 | P_8c6859d580
+X_66b27a966b. X_38e950e71e.
+
+0:29 | P_2fbe0ab6ab
+X_1752eca839.
+
+0:31 | P_8c6859d580
+X_e88176dea4. X_59b6edfb2e.
+
+0:33 | P_2fbe0ab6ab
+X_76273a4a34. X_9ea0101a6d.
+
+0:34 | P_8c6859d580
+X_844033a0c9. X_f3fe242ad2.
+
+0:41 | P_2fbe0ab6ab
+X_5d216c57b5. X_4a6a0f1f91. X_fbf433d91b. X_80acbde08f. X_b9a2393566. X_b3e4614293.
+
+1:07 | P_938bee05b2
+X_38e55a115d.
+
+1:08 | P_8c6859d580
+X_390679644c. X_21bf4a8ab7. X_9fbe0df94d.
+
+1:13 | P_938bee05b2
+X_a90ecc6f20. X_a371f19858.
+
+1:16 | P_8c6859d580
+X_e396dc9328.
+
+1:18 | P_938bee05b2
+X_f975f5be5f. X_4eee853bf3. X_7a20d2ff7a. X_5f236ea39c. X_ed6846389a. X_7441917b1d.
+
+1:50 | P_8c6859d580
+X_2f7bba37f0. X_f40b5d3901. X_04d8e6a022. X_4ed5bc71c9. X_0c9260320e. X_bdebffd20d. X_189b27bd33. X_d56a114c9f. X_68d847d309. X_e539b586c3. X_2d56644a98. X_aff7375118.
+
+2:31 | P_2fbe0ab6ab
+X_eb55e2bc05. X_238902b3b4. X_9eed8e61ed.
+
+2:51 | P_8c6859d580
+X_390679644c. X_1ed890aa67. X_cc70856f13. X_ce060df113. X_95513badaf. X_8d872acced. X_06e4c08417. X_0aff213237. X_f64d8089f5. X_3765db22f8. X_bb5e234f77. X_28503d442f. X_757eb50ec1. X_42a4dc6ae9. X_d1eed7f74a. X_4f53381802.
+
+4:04 | P_938bee05b2
+X_d680a4400a. X_c99f320d47. X_7c45286e4f. X_81d99e703c. X_77b665e30d. X_f68cbf913f. X_06ee6280da. X_f64d8089f5.
+
+### S_76498b9e46 [4:04]
+
+4:38 | P_8c6859d580
+X_f55eda9d40. X_3b8767ab01. X_31f2c983b0. X_a3681b01b7. X_d7514cee6e. X_b0cb6794a6. X_249af1af07. X_ae3038013e. X_30d187def0. X_fbf433d91b. X_e1b25f9590.
+
+5:13 | P_938bee05b2
+X_45557368af.
+
+### S_5fba6ca75f [5:15]
+
+5:15 | P_8c6859d580
+X_70686a2193. X_7ee88a0857. X_596b09b3c2. X_3765db22f8. X_2a0cbda396. X_a5f2a3c108. X_f3d5b8a4b5. X_71dce761ac. X_6793447a1c. X_5032c5c69f. X_f64d8089f5.
+
+5:59 | P_938bee05b2
+X_8e10aaf324. X_d3253878ee. X_51c1f861c5. X_b3e939632f. X_15573b68c7. X_a7143c7638.
+
+6:46 | P_935ebdda77
+X_4f2892a5ff. X_ecf2b6a0bb.
+
+6:48 | P_938bee05b2
+X_6602b91000. X_040ca00f98. X_a413470917.
+
+7:34 | P_8c6859d580
+X_5d4c4310f7. X_d1715a52fe. X_2a542a0db1. X_e84833f4e3.
+
+7:46 | P_935ebdda77
+X_cc49588c27. X_99eafac0b2. X_99eafac0b2. X_cf9a0b5ced.
+
+7:51 | P_938bee05b2
+X_c266d78e30. X_1d2d0820c0. X_d65952c8bc. X_9e010507ad. X_01199a411d.
+
+8:35 | P_935ebdda77
+X_52e251f91d.
+
+8:39 | P_938bee05b2
+X_a6b410009f.
+
+8:41 | P_935ebdda77
+X_75e8dd4fbe. X_04ccab9a78. X_d3bc303777.
+
+8:47 | P_938bee05b2
+X_e299286d2b. X_42a4dc6ae9. X_c226fd145e. X_a44d82daba.
+
+9:08 | P_935ebdda77
+X_909b924579. X_b75c8b82fe. X_62e8182648. X_596b09b3c2. X_31841a1935. X_42a4dc6ae9. X_ad8b715375. X_caaebc4dd3. X_757eb50ec1. X_3765db22f8. X_f3add2a8a9. X_7cb7558323.
+
+9:50 | P_8c6859d580
+X_fbf433d91b. X_2affbc2011. X_a0a47f4c7e.
+
+9:53 | P_938bee05b2
+X_f55eda9d40.
+
+9:57 | P_935ebdda77
+X_1538a1755a. X_7a5f4f0f9c. X_757eb50ec1.
+
+9:58 | P_8c6859d580
+X_0eada5858d.
+
+10:00 | P_935ebdda77
+X_f51c1e4711. X_d57c03a6fb. X_955989f42d. X_fd5cee5d66.
+
+10:10 | P_8c6859d580
+X_daedc1a8d8.
+
+10:11 | P_935ebdda77
+X_524b0c60d8. X_121d2568ab.
+
+### S_283db6bdd3 [10:26]
+
+10:26 | P_8c6859d580
+X_596b09b3c2. X_3765db22f8. X_a8965a11ef. X_88cd53ab69. X_96d85395d0. X_651c6ea8c1.
+
+10:57 | P_938bee05b2
+X_c2646e681b. X_8255fd27e4. X_0e7f3ceb02. X_61991514f0. X_fbf433d91b. X_fc2bd42cba.
+
+11:43 | P_8c6859d580
+X_8a08e9f464. X_4ed3b9efd2.
+
+11:57 | P_938bee05b2
+X_e5b897e191.
+
+12:09 | P_8c6859d580
+X_eb55f35195. X_f64d8089f5.
+
+12:11 | P_938bee05b2
+X_b8e4be34ce. X_e6ff56027b. X_30170e653c.
+
+12:24 | P_8c6859d580
+X_4158b4c247. X_440bf7b8ca. X_8335dff3e6. X_c58865fd8b. X_42a4dc6ae9. X_348e968fd7. X_d680a4400a. X_30170e653c.
+
+12:43 | P_938bee05b2
+X_2bf0037c7f. X_bb64f53360.
+
+12:58 | P_8c6859d580
+X_4158b4c247. X_d680a4400a. X_7168e5a547. X_3765db22f8. X_643bd758d8. X_d7e8a8d7dc. X_75cb11ceca. X_6a4ee5aefa. X_d7dce5a609.
+
+### S_12ef112e34 [13:17]
+
+13:17 | P_938bee05b2
+X_5c5ff92659. X_757eb50ec1.
+
+13:21 | P_8c6859d580
+X_390679644c. X_8479d3ee47. X_14b7183737. X_9a48621792. X_8a6ae22811. X_1fa742f09b. X_dd9412e525. X_18647a2ed6. X_7917a0b86e. X_cbc1e9bb0c. X_adc1a2320e. X_ca2425d59f. X_e81f65822a. X_56aa8f944c. X_7ce3b18dd2.
+
+15:06 | P_fe1d3c95b0
+X_d7f5f1175b. X_7129945717.
+
+15:19 | P_8c6859d580
+X_0aa5eb3406.
+
+15:26 | P_fe1d3c95b0
+X_1de194dbf5. X_cb623fdc6c. X_9bf0506a0c. X_7dcba60b29. X_0af68ba1cb.
+
+15:40 | P_8c6859d580
+X_a209689142. X_86f092782e. X_ba40423542. X_38ab8c109c. X_9e37996235. X_1328b583be. X_80b3cf2f01. X_975068f28a. X_d41dd2bde1.
+
+16:36 | P_fe1d3c95b0
+X_76f20a4bac.
+
+16:37 | P_8c6859d580
+X_9bf0506a0c. X_d90e6ba63f. X_de24b6c446. X_8c2fd6ea34. X_966b3c8627. X_ede8070a7f. X_9bf0506a0c. X_9d01c32d2a. X_7c00f37533. X_89be26c710.
+
+17:25 | P_fe1d3c95b0
+X_8ff1b7029a. X_b2bac27f3e. X_68b90f356c. X_393bda4544. X_e07def7393. X_ce583823d2. X_daf4e79b4f. X_2fd83ad021. X_c3a0ea67f9. X_f051c3d836. X_68bc03ce3e. X_f64d8089f5. X_434ede3bbd.
+
+### S_fd1f37caa0 [17:25]
+
+18:50 | P_8c6859d580
+X_3c77f992d3. X_954cdcc4ea. X_d9f179d48a. X_779561794f. X_97fb72bac9. X_f1cc1ace16. X_030c605b10. X_434ede3bbd.
+
+19:23 | P_fe1d3c95b0
+X_7ea414639d. X_9c09ee3689. X_a92e2a6345. X_69118dd894. X_4cfa8ca0fd.
+
+20:13 | P_8c6859d580
+X_5bf67ebfde.
+
+20:14 | P_fe1d3c95b0
+X_7ff7d22cf5. X_1758c1758b. X_757eb50ec1. X_37e5edad95. X_1b1136aa66. X_1671ebd8ea. X_766d2f62ef. X_09618aec65. X_91d17b51ed. X_c604df20c8. X_9dbd66929b. X_f64d8089f5.
+
+21:16 | P_8c6859d580
+X_0058a72e59. X_36f6fc67dd. X_c882378d32.
+
+21:35 | P_fe1d3c95b0
+X_6cfcb4a9cd. X_b696d87837. X_26b6409215.
+
+21:42 | P_8c6859d580
+X_4a9ebd6e4f. X_6941271fc7.
+
+21:44 | P_fe1d3c95b0
+X_edb75d3df9. X_9a86a1958c.
+
+### S_db26afc9d1 [22:04]
+
+22:04 | P_8c6859d580
+X_2e54bcbaea. X_876c0aefea. X_fd8d27ff4c. X_cae4af726f. X_c58cf09e5d. X_0750718f50. X_a0d79637ee. X_434ede3bbd.
+
+22:56 | P_fe1d3c95b0
+X_c1891ec1cc. X_3638550479. X_8d6d7beeb7. X_d2b968edb7. X_2afd616538. X_0df210b788. X_396b8fd456. X_1d1cfda7e0. X_083e90a147.
+
+24:11 | P_8c6859d580
+X_4a2d917fab. X_58fe648007.
+
+24:16 | P_fe1d3c95b0
+X_fa2970e7e0.
+
+24:21 | P_8c6859d580
+X_f75033ed14.
+
+24:22 | P_fe1d3c95b0
+X_921aa123b2. X_5a61114482. X_60cd29cd14.
+
+24:35 | P_8c6859d580
+X_69291f3769.
+
+24:43 | P_fe1d3c95b0
+X_79c4bbc078.
+
+24:44 | P_8c6859d580
+X_4484b6a5b4. X_8cd262bec5. X_d65a724690. X_e56c1e5dae. X_6066213872. X_6bcf0794f5.
+
+### S_396b2d2d39 [25:22]
+
+25:22 | P_fe1d3c95b0
+X_d8b311167c. X_1face0934d. X_8668834a35. X_a96e1e7141. X_dc591ea44c. X_bbf98b21bd. X_4abe4d6d27. X_fbf433d91b. X_6941271fc7.
+
+25:59 | P_8c6859d580
+X_a5d0e8ef18. X_e3e79dab47. X_f72af0f938. X_c0fdff41cc. X_6c441a6aab. X_86f9460021. X_3287105529. X_193b84eba2. X_2fafc42009. X_d6d2774d84. X_fd0b6a2f17. X_3fb582adef. X_b5e85dc338.
+
+27:20 | P_fe1d3c95b0
+X_8b9600e835. X_6c0a72dc96. X_4460d5c6ea. X_6959f72bf7. X_da5c7fdeea. X_757eb50ec1. X_9b8b088b70. X_be52c0713d. X_cea99280e6. X_b88c62fc27. X_5b2b5c8c30. X_f64d8089f5. X_fbf433d91b. X_2b333a6b03.
+
+29:01 | P_8c6859d580
+X_6a3038e54f. X_a83a17179f. X_924d44a546. X_281cf58e58. X_d5e97b9222. X_49b5d4ee28. X_dec1e3ab55.
+
+29:57 | P_fe1d3c95b0
+X_a2d7d9d3f0. X_d93fe3bce5. X_87057c280b. X_fbf433d91b. X_b19be40fd3. X_d2b0215685. X_adbc61326c. X_7e28a73f9d. X_434ede3bbd.
+
+30:49 | P_8c6859d580
+X_436b38e921.
+
+30:52 | P_6ba4b20da8
+X_422e0db10a.
+
+30:52 | P_8c6859d580
+X_0d719418b7. X_d212affcfe. X_f64d8089f5.
+
+### S_1fbdb93bbb [31:28]
+
+31:28 | P_6ba4b20da8
+X_fbf433d91b. X_32eb770d5e.
+
+31:29 | P_fe1d3c95b0
+X_5527517a9f. X_fbf433d91b. X_de94c03999.
+
+31:41 | P_6ba4b20da8
+X_6988832881.
+
+31:41 | P_fe1d3c95b0
+X_b7dda40f7c. X_bd95ee9011. X_590b09ab75. X_5fa8f11fac. X_15c1031f11.
+
+32:08 | P_8c6859d580
+X_42a4dc6ae9.
+
+32:09 | P_fe1d3c95b0
+X_dc7c0d56de.
+
+32:10 | P_8c6859d580
+X_cfe009c7cd. X_7bea6c7cfc. X_434ede3bbd.
+
+32:27 | P_fe1d3c95b0
+X_9e12910477. X_757eb50ec1.
+
+32:33 | P_6ba4b20da8
+X_7cdd399b11.
+
+32:35 | P_fe1d3c95b0
+X_f65a0f67dd.
+
+32:47 | P_8c6859d580
+X_9f18ebbbd6.
+
+32:47 | P_fe1d3c95b0
+X_dab0197104.
+
+33:07 | P_6ba4b20da8
+X_b0081c83bf.
+
+33:07 | P_fe1d3c95b0
+X_be8242212e.
+
+33:11 | P_6ba4b20da8
+X_a8d15e3592.
+
+33:13 | P_fe1d3c95b0
+X_a734f881b2.
+
+33:16 | P_6ba4b20da8
+X_a71078b4e4.
+
+33:19 | P_fe1d3c95b0
+X_5d605042eb. X_344fcce814. X_970a359c32. X_a2fdacb946.
+
+33:56 | P_6ba4b20da8
+X_da738c3f9b.
+
+33:58 | P_fe1d3c95b0
+X_ad53c3f0a5. X_dadf0579c8.
+
+### S_10a8dc8a5e [34:13]
+
+34:13 | P_8c6859d580
+X_c2318e9d48. X_362718c0fa.
+
+34:23 | P_fe1d3c95b0
+X_ffb49032c4.
+
+34:24 | P_8c6859d580
+X_e8f566713a. X_0196bee0a8. X_3e537f8a35.
+
+34:35 | P_fe1d3c95b0
+X_41e5923476.
+
+34:35 | P_8c6859d580
+X_b798a94243.
+
+34:44 | P_fe1d3c95b0
+X_17ee4582a0.
+
+34:45 | P_6ba4b20da8
+X_ac70609db3.
+
+34:52 | P_fe1d3c95b0
+X_3e6d682832.
+
+34:57 | P_6ba4b20da8
+X_7beeb405f1.
+
+34:57 | P_fe1d3c95b0
+X_48fac5fc99. X_32e8c4bda1. X_9518414b0c.
+
+35:14 | P_8c6859d580
+X_41d508209d.
+
+35:16 | P_fe1d3c95b0
+X_416f59bb95.
+
+35:20 | P_6ba4b20da8
+X_d8edc86720.
+
+35:23 | P_fe1d3c95b0
+X_c2f2992151. X_0485d4ddb3.
+
+35:26 | P_8c6859d580
+X_c0d07020c3.
+
+35:27 | P_6ba4b20da8
+X_b22f70104f.
+
+35:29 | P_8c6859d580
+X_fbf433d91b. X_1b86c0fe1b.
+
+35:30 | P_fe1d3c95b0
+X_3e349f1fb5.
+
+35:40 | P_6ba4b20da8
+X_fbf433d91b.
+
+35:41 | P_fe1d3c95b0
+X_3765db22f8. X_db394e6ee7.
+
+35:46 | P_6ba4b20da8
+X_f64d8089f5. X_7b85344a9f.
+
+35:47 | P_8c6859d580
+X_e9faf1c705. X_3106464f21.
+
+36:07 | P_6ba4b20da8
+X_b7a24a0b7e.
+
+36:08 | P_fe1d3c95b0
+X_76f20a4bac.
+
+36:09 | P_8c6859d580
+X_e46c44073e.
+
+### S_97b7ffa837 [36:09]
+
+36:10 | P_fe1d3c95b0
+X_09d2c90199. X_78420f2c15. X_c2c8013cee.
+
+36:31 | P_6ba4b20da8
+X_5a803e1c74.
+
+36:32 | P_fe1d3c95b0
+X_2edecf0583.
+
+36:43 | P_6ba4b20da8
+X_3590a7c529.
+
+36:43 | P_fe1d3c95b0
+X_e28f7715fe. X_e57bbb5039.
+
+36:58 | P_8c6859d580
+X_3a640c9d9a.
+
+37:05 | P_6ba4b20da8
+X_71356c2f46.
+
+37:05 | P_8c6859d580
+X_75d1a4cc89.
+
+37:08 | P_fe1d3c95b0
+X_576cc7a393.
+
+37:09 | P_8c6859d580
+X_133e9bcaab.
+
+37:15 | P_6ba4b20da8
+X_f90adf5ed8.
+
+37:15 | P_8c6859d580
+X_b4229c6e3c. X_fbf433d91b. X_d8531e2647.
+
+37:29 | P_6ba4b20da8
+X_3d7404583d.
+
+37:29 | P_8c6859d580
+X_0f9918d7f6.
+
+37:34 | P_6ba4b20da8
+X_732f08fb68.
+
+37:34 | P_8c6859d580
+X_4d4f5255cf. X_5f2a02632e. X_d5dba20840. X_757eb50ec1.
+
+37:45 | P_fe1d3c95b0
+X_b8af2d80bb. X_0615c6eccc. X_f806ae2cdb.
+
+37:57 | P_8c6859d580
+X_e6d2d879cf. X_f64d8089f5.
+
+38:34 | P_fe1d3c95b0
+X_c864b83bce. X_f381b9b3b8. X_0b7974d5b4.
+
+38:53 | P_8c6859d580
+X_7ba2868d70.
+
+39:09 | P_fe1d3c95b0
+X_fbf433d91b. X_0615c6eccc. X_271b17289b. X_fbf433d91b. X_434ede3bbd. X_40fb465c94.
+
+39:53 | P_6ba4b20da8
+X_00dbb00d70.
+
+39:54 | P_fe1d3c95b0
+X_7e9e3234a8.
+
+39:56 | P_8c6859d580
+X_94b973558e.
+
+39:57 | P_fe1d3c95b0
+X_f845fa8001.
+
+40:03 | P_6ba4b20da8
+X_07d5b1eeff.
+
+40:03 | P_fe1d3c95b0
+X_09afab5a9d. X_19dd2be07f.
+
+40:18 | P_6ba4b20da8
+X_6c3ab5fd17.
+
+40:18 | P_fe1d3c95b0
+X_0c9c0fdbe6. X_2ad04ef197.
+
+40:36 | P_6ba4b20da8
+X_72b6a424f2. X_434ede3bbd.
+
+40:38 | P_fe1d3c95b0
+X_9d0e0f9803.
+
+40:40 | P_6ba4b20da8
+X_c1f7869253.
+
+40:42 | P_fe1d3c95b0
+X_256f66840b.
+
+40:43 | P_6ba4b20da8
+X_3d93485f1f.
+
+41:08 | P_fe1d3c95b0
+X_a89716cce3. X_1777f45cc4.
+
+41:28 | P_8c6859d580
+X_e1d20c290d.
+
+41:33 | P_fe1d3c95b0
+X_e3f9bdf84c. X_95b94a8bcb.
+
+41:47 | P_8c6859d580
+X_2e7d26a7e6. X_cc49588c27.
+
+41:50 | P_6ba4b20da8
+X_4d1ec33c23.
+
+41:53 | P_fe1d3c95b0
+X_2da9067627.
+
+41:59 | P_6ba4b20da8
+X_6ed0686001.
+
+41:59 | P_fe1d3c95b0
+X_13fbfb2051.
+
+42:02 | P_6ba4b20da8
+X_8fd1060ae4.
+
+42:03 | P_fe1d3c95b0
+X_7622aab824.
+
+42:17 | P_6ba4b20da8
+X_dfc1c34605.
+
+42:19 | P_8c6859d580
+X_18f9d3e0e3. X_596b09b3c2.
+
+42:24 | P_6ba4b20da8
+X_0cd8e9314c.
+
+42:24 | P_8c6859d580
+X_2d2df819b3. X_5261217ba1. X_0fc55a09fc. X_023a43ca94. X_cc01cb8c61.
+
+43:00 | P_fe1d3c95b0
+X_fbf433d91b. X_9c8c5f7a25. X_95792af199.
+
+### S_fc85548255 [43:03]
+
+43:03 | P_8c6859d580
+X_3765db22f8. X_0568bfb5d5.
+
+43:08 | P_fe1d3c95b0
+X_b3b4186359. X_41b5cdbb24.
+
+43:19 | P_6ba4b20da8
+X_a85a2f1ca4.
+
+43:19 | P_fe1d3c95b0
+X_fbf433d91b. X_7c3521870d.
+
+43:24 | P_8c6859d580
+X_4d92c345ef. X_ab5dd30965. X_392a7f8d26. X_71356c2f46.
+
+43:32 | P_fe1d3c95b0
+X_d9a5ddaffb. X_999d165286. X_170932a1ea.
+
+43:48 | P_8c6859d580
+X_c2e45c022f. X_671c3f8d69. X_a557a3de6c. X_506dfff0f4. X_9e34624b8e. X_690cdd789c. X_7148a9baf2. X_5f37adee26. X_f64d8089f5.
+
+44:50 | P_fe1d3c95b0
+X_8479d3ee47. X_aff4d216de. X_6bbeb58dcd. X_af049a40c8. X_6e15cec1b2.
+
+45:04 | P_8c6859d580
+X_513d588be3.
+
+45:05 | P_fe1d3c95b0
+X_b681a20b14.
+
+45:07 | P_8c6859d580
+X_619702c87a.
+
+45:07 | P_fe1d3c95b0
+X_d7f4332444. X_f64d8089f5. X_29735f5b9b.
+
+### S_76498b9e46 [45:14]
+
+45:14 | P_8c6859d580
+X_ea9d923f67. X_f5e7aadbd8. X_2dc98be07f. X_418ff9e3c6. X_99b842e55a. X_8a338b6d02. X_657f9bd80a. X_f64d8089f5.
+
+46:13 | P_fe1d3c95b0
+X_113facc6a6. X_fa7b978343. X_0aa3c76565.
+
+46:23 | P_8c6859d580
+X_1882823553.
+
+46:25 | P_fe1d3c95b0
+X_46e80530e1. X_f64d8089f5.
+
+46:35 | P_935ebdda77
+X_d1118f145b. X_32e19b5854. X_40c19c1fcf.
+
+46:49 | P_fe1d3c95b0
+X_fbf433d91b. X_752622e0fb. X_f64d8089f5. X_4158b4c247. X_fd8659122d.
+
+46:55 | P_8c6859d580
+X_baa0dc6ca0. X_a569b89ad6. X_27425a30f5.
+
+### S_2173faa8fb [46:55]
+
+47:09 | P_6ba4b20da8
+X_497f680dcd.
+
+47:10 | P_8c6859d580
+X_ffa76f72c6.
+
+47:14 | P_fe1d3c95b0
+X_a48089d078.
+
+47:15 | P_8c6859d580
+X_4db0c4fa45. X_45ca479c91. X_3164642d5a. X_1b8daf393c. X_a00f7dbd5c.
+
+47:49 | P_fe1d3c95b0
+X_fbf433d91b. X_f64d8089f5. X_7026e16e6b. X_d04454d000. X_bda36e2b02. X_0a7ae9968f. X_238b1549cf.
+
+48:19 | P_8c6859d580
+X_a737ec4773. X_fa7b978343.
+
+48:24 | P_fe1d3c95b0
+X_0ab9fd86b2. X_e8b96f4a67. X_0bfd574091.
+
+48:37 | P_8c6859d580
+X_237d1e7f7f. X_3ee130b9f0.
+
+48:55 | P_6ba4b20da8
+X_32d47f66c9.
+
+### S_991a26913c [48:55]
+
+48:56 | P_8c6859d580
+X_cc5945534b. X_d155533f1d.
+
+49:16 | P_6ba4b20da8
+X_f64d8089f5.
+
+49:18 | P_fe1d3c95b0
+X_013c477703. X_757eb50ec1.
+
+49:22 | P_8c6859d580
+X_377e84dafc.
+
+49:23 | P_6ba4b20da8
+X_fc13acea4f.
+
+49:24 | P_fe1d3c95b0
+X_3e6dd9ed92.
+
+49:34 | P_8c6859d580
+X_aae292f1f2.
+
+49:37 | P_fe1d3c95b0
+X_f64d8089f5. X_d4fa900db7. X_a335748aa7. X_0ebe28e839. X_ab9914fd49.
+
+51:34 | P_8c6859d580
+X_52fd07c3f6.
+
+### S_5461e43139 [51:34]
+
+51:39 | P_fe1d3c95b0
+X_7b8a8b302c.
+
+51:45 | P_6ba4b20da8
+X_edbacc8706.
+
+51:46 | P_fe1d3c95b0
+X_f217162499.
+
+51:51 | P_6ba4b20da8
+X_2889c06070.
+
+51:52 | P_8c6859d580
+X_ed3009e9bf. X_f358e09e55. X_8448b87b24.
+
+52:03 | P_fe1d3c95b0
+X_f64d8089f5.
+
+52:04 | P_8c6859d580
+X_889af13f34. X_f64d8089f5. X_50b3b3e2ad. X_fbf433d91b. X_3e1974585c.
+
+52:10 | P_6ba4b20da8
+X_e85f505d2f.
+
+52:12 | P_fe1d3c95b0
+X_26537dc7d2.
+
+52:13 | P_8c6859d580
+X_6941271fc7. X_f64d8089f5.
+
+52:28 | P_fe1d3c95b0
+X_d26fba2715.
+
+52:34 | P_6ba4b20da8
+X_1d516d6b7a.
+
+52:34 | P_fe1d3c95b0
+X_6c980ad0aa.
+
+52:36 | P_8c6859d580
+X_4158b4c247. X_19be965fb5. X_91442b41c9. X_757eb50ec1.
+
+### S_7c89880214 [52:36]
+
+52:50 | P_6ba4b20da8
+X_ac70609db3.
+
+52:51 | P_8c6859d580
+X_4a4ab844cf.
+
+52:57 | P_fe1d3c95b0
+X_fbf433d91b.
+
+53:04 | P_8c6859d580
+X_b187ec87e0. X_8fe3795ce6.
+
+53:08 | P_fe1d3c95b0
+X_6cebb9c8b4.
+
+53:09 | P_8c6859d580
+X_d501d938d4.
+
+53:11 | P_fe1d3c95b0
+X_556cdca8b3. X_d4b6a90e34.
+
+53:13 | P_8c6859d580
+X_a4d8527fad. X_3765db22f8. X_edf07bc726. X_f9b3765b27.
+
+53:22 | P_fe1d3c95b0
+X_fbf433d91b. X_f64d8089f5.
+
+53:26 | P_6ba4b20da8
+X_94b973558e.
+
+53:26 | P_8c6859d580
+X_7b3e9b3ab4. X_e9b676e409. X_585b73824a.
+
+53:32 | P_fe1d3c95b0
+X_48625082ab.
+
+### S_ee78a08920 [53:32]
+
+53:34 | P_8c6859d580
+X_a980f0b811. X_8331871382. X_c160c15a35. X_1b2416ada0. X_6b067d12c6. X_dd98622ceb.
+
+53:53 | P_6ba4b20da8
+X_a807bc81a0.
+
+53:54 | P_8c6859d580
+X_5ecef76f43. X_fbf433d91b. X_16f6c9a944. X_fbf433d91b.
+
+53:56 | P_fe1d3c95b0
+X_ea57421133. X_f64d8089f5. X_f4496dfe41.
+
+54:01 | P_8c6859d580
+X_bd3edfe5db.
+
+54:08 | P_6ba4b20da8
+X_94301750f9.
+
+54:09 | P_8c6859d580
+X_e7e15588fa. X_83407abbee. X_c6186b386a. X_3bd0e478ee. X_ddc0452cc6.
+
+54:34 | P_6ba4b20da8
+X_732f08fb68.
+
+### S_a5ad5dc148 [54:34]
+
+54:35 | P_8c6859d580
+X_696cffe5d5. X_a8e86edc1e. X_7980c6435d.
+
+55:26 | P_fe1d3c95b0
+X_550ce6e3ac. X_c35db97414. X_f64d8089f5. X_4670fea091. X_bd0ede9e62.
+
+56:01 | P_8c6859d580
+X_e6a4a8d31d. X_f64d8089f5.
+
+56:03 | P_fe1d3c95b0
+X_8fd719d777. X_35d277f6c7. X_4e4ac19fa4. X_18018d3b56. X_2551774858. X_8a5456f9de. X_289d61a392.
+
+### S_0d38879092 [56:48]
+
+56:48 | P_8c6859d580
+X_bf53b983bb. X_23dc547af4. X_9ae89b8945.
+
+57:03 | P_fe1d3c95b0
+X_fbf433d91b. X_c6ffc5c7d9.
+
+57:05 | P_8c6859d580
+X_c646c26266. X_238b92df39. X_481fea3c03. X_45ffaf34ca. X_b3ea2383e7.
+
+57:42 | P_6ba4b20da8
+X_a85a2f1ca4.
+
+57:43 | P_fe1d3c95b0
+X_024dfe44c1. X_434ede3bbd.
+
+### S_1d3438f5c6 [57:50]
+
+57:50 | P_8c6859d580
+X_8b506508d1. X_193401882c. X_f948aaa08d. X_cff4e06a4d. X_f0fdc68714. X_71a487ada2.
+
+58:16 | P_6ba4b20da8
+X_1b86c0fe1b.
+
+58:18 | P_8c6859d580
+X_b8e2f2ca88. X_9bf0506a0c. X_f62f5f2c49. X_a303cad619. X_0615c6eccc. X_fd64574354. X_1da3fa43ba. X_cf9130e215. X_f8c418997a. X_80c44fd07e. X_1227f93513. X_a4998fd9e9.
+
+58:58 | P_fe1d3c95b0
+X_9bf0506a0c.
+
+58:59 | P_8c6859d580
+X_8815158b4c.
+
+59:05 | P_6ba4b20da8
+X_a15684d21f.
+
+59:06 | P_8c6859d580
+X_9b73a0a27f. X_d680a4400a. X_91667a5159. X_24c2d3f819. X_d8e0e5ae4c.
+
+59:12 | P_fe1d3c95b0
+X_9bf0506a0c.
+
+59:14 | P_8c6859d580
+X_66e291fe68.
+
+### S_880fe62968 [59:15]
+
+59:15 | P_fe1d3c95b0
+X_b3b3a00328. X_37d2c0af4f.
+
+59:18 | P_8c6859d580
+X_dd5273e1ca.
+
+59:19 | P_fe1d3c95b0
+X_ee79890472. X_7ea5a1116e.
+
+59:24 | P_8c6859d580
+X_c9d5c0dbc9. X_dee41c4b03.
+
+59:35 | P_fe1d3c95b0
+X_9bf0506a0c. X_d680a4400a. X_3765db22f8. X_f64d8089f5. X_5e4f9d3741. X_9f7cf8c9fc. X_a071c111e9. X_94791141eb. X_47c7a772c8. X_d481406875.
+
+60:13 | P_8c6859d580
+X_9866146d00. X_f64d8089f5. X_e5c9f7d112. X_7df2350d5f. X_2749f6fad3. X_f64d8089f5. X_e2dcd6bbc1. X_35d0d5a1a3.
+
+60:39 | P_fe1d3c95b0
+X_7ababa4fca.
+
+60:40 | P_8c6859d580
+X_d092c364e6.
+
+60:42 | P_fe1d3c95b0
+X_25c3a37de1. X_c40c574224.
+
+60:57 | P_8c6859d580
+X_ae498a496d. X_145880ba70.
+
+### S_c3b34d39b5 [61:10]
+
+61:10 | P_fe1d3c95b0
+X_571c58bdba.
+
+61:23 | P_8c6859d580
+X_c4a6b29618. X_178b999992. X_a18dfa0639. X_1dade651a7. X_e998797d32. X_cd593919f2.
+
+61:54 | P_fe1d3c95b0
+X_fbf433d91b. X_42e9359d51. X_ae3660a244.
+
+61:59 | P_8c6859d580
+X_71c7a38ec8. X_f18743034d.
+
+62:04 | P_fe1d3c95b0
+X_fbf433d91b. X_a5923c33fb. X_757eb50ec1. X_5e4f9d3741.
+
+62:12 | P_8c6859d580
+X_c08e126f25. X_e3ace4f552. X_90dcd3d926.
+
+### S_e76cc5ee1f [62:12]
+
+62:23 | P_fe1d3c95b0
+X_4fab845aa4.
+
+62:29 | P_8c6859d580
+X_2e4a5f76b5.
+
+62:33 | P_fe1d3c95b0
+X_dad63c9702.
+
+62:34 | P_8c6859d580
+X_a416d6b923. X_7fbec2fe8e. X_9c0857d729. X_aff4d216de. X_b4e7012a1c. X_8cfc3b4b44. X_f22185c445. X_b0cb106946.
+
+### S_6e76c16e2e [62:44]
+
+62:44 | P_fe1d3c95b0
+X_11151c7935.
+
+62:44 | P_8c6859d580
+X_4624ef4c38. X_702d34a807. X_c26cc943f6. X_e65ff45e2f. X_f521444d6a.
+
+63:15 | P_fe1d3c95b0
+X_9045999d68. X_76ce96d43b.
+
+63:19 | P_8c6859d580
+X_a9e74112f8. X_d2b57c48ae. X_ac0da9afde. X_49c1d4a967.
